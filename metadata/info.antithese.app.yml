@@ -1,0 +1,14 @@
+AuthorName: funkypitt
+Categories:
+- Reading
+- Internet
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/antithese-app/issues
+License: GPL-3.0-only
+Name: "Antith\xE8se"
+SourceCode: https://github.com/funkypitt/antithese-app
+Summary: Application mobile pour antithese.info
+Description: |
+  Application mobile pour le média antithese.info. Lecture d'articles,
+  navigation par catégories, contenu premium.
+WebSite: https://antithese.info

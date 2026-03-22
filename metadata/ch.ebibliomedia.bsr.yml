@@ -1,0 +1,15 @@
+AuthorName: funkypitt
+Categories:
+- Multimedia
+- Reading
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/bsr-app/issues
+License: GPL-3.0-only
+Name: "Biblioth\xE8que Sonore"
+SourceCode: https://github.com/funkypitt/bsr-app
+Summary: App de livres audio pour e-bibliomedia Lausanne
+Description: |
+  Application de livres audio pour la Bibliothèque Sonore Romande
+  via e-bibliomedia. Streaming et téléchargement, gestion des prêts
+  et réservations.
+WebSite: https://github.com/funkypitt/bsr-app
