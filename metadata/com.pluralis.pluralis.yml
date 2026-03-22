@@ -1,0 +1,16 @@
+AuthorName: funkypitt
+Categories:
+- Reading
+- Internet
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/pluralis/issues
+License: GPL-3.0-only
+Name: Pluralis
+SourceCode: https://github.com/funkypitt/pluralis
+Summary: Alternative news aggregator — EN & FR RSS feeds
+Description: |
+  Pluralis is a local-first RSS news reader with 33 curated alternative
+  media sources (26 EN + 7 FR). Features an e-ink optimized paged reader,
+  bookmarks, per-source browsing, and Substack paid content support.
+  No accounts, no tracking, fully offline-capable.
+WebSite: https://github.com/funkypitt/pluralis

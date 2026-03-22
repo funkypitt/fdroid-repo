@@ -1,0 +1,13 @@
+AuthorName: funkypitt
+Categories:
+- Reading
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+License: GPL-3.0-only
+Name: OpenLibe Extended e-Ink Remix
+SourceCode: ''
+Summary: Library client optimized for e-ink devices
+Description: |
+  Fork of OpenLibe Extended with e-ink display optimizations for
+  comfortable reading on e-ink Android devices.
+WebSite: ''
