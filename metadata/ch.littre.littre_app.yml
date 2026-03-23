@@ -1,0 +1,14 @@
+AuthorName: funkypitt
+Categories:
+- Reading
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/littre-app/issues
+License: GPL-3.0-only
+Name: "Dictionnaire Littr\xE9"
+SourceCode: https://github.com/funkypitt/littre-app
+Summary: "Dictionnaire Littr\xE9 hors-ligne pour Android"
+Description: |
+  Dictionnaire Littré complet, hors-ligne. Recherche instantanée
+  parmi les définitions, étymologies et citations du dictionnaire
+  de la langue française d'Émile Littré. ARM64 uniquement.
+WebSite: https://github.com/funkypitt/littre-app
