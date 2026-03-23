@@ -2,12 +2,17 @@ AuthorName: funkypitt
 Categories:
 - Reading
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-License: GPL-3.0-only
-Name: OpenLibe Extended e-Ink Remix
-SourceCode: ''
-Summary: Library client optimized for e-ink devices
+IssueTracker: https://github.com/funkypitt/funky-openlib/issues
+License: AGPL-3.0-only
+Name: OpenLibe e-Ink Remix
+SourceCode: https://github.com/funkypitt/funky-openlib
+Summary: E-ink optimized e-book reader and library browser
 Description: |
-  Fork of OpenLibe Extended with e-ink display optimizations for
-  comfortable reading on e-ink Android devices.
-WebSite: ''
+  Open-source e-book reader optimized for e-ink displays. Paginated
+  EPUB reading with adaptive font sizing, high-contrast themes, and
+  tap zones designed for e-paper. Search and download from online
+  library catalogs. Local library management.
+  This application is a reading tool. It does not host any content.
+  Users are solely responsible for compliance with copyright laws
+  in their jurisdiction.
+WebSite: https://github.com/funkypitt/funky-openlib

@@ -4,11 +4,15 @@ Categories:
 CurrentVersionCode: 2147483647
 IssueTracker: https://github.com/funkypitt/littre-app/issues
 License: GPL-3.0-only
-Name: "Dictionnaire Littr\xE9"
+Name: "Le dictionnaire Littr\xE9"
 SourceCode: https://github.com/funkypitt/littre-app
-Summary: "Dictionnaire Littr\xE9 hors-ligne pour Android"
+Summary: "Dictionnaire Littr\xE9 complet, gratuit et hors-ligne"
 Description: |
-  Dictionnaire Littré complet, hors-ligne. Recherche instantanée
-  parmi les définitions, étymologies et citations du dictionnaire
-  de la langue française d'Émile Littré. ARM64 uniquement.
+  Le dictionnaire de la langue fran\xE7aise d'\xC9mile Littr\xE9,
+  complet et enti\xE8rement gratuit, consultable hors-ligne.
+  78 599 entr\xE9es avec d\xE9finitions, \xE9tymologies et citations.
+  Recherche instantan\xE9e, mot du jour, favoris, renvois crois\xE9s
+  cliquables, mode sombre. Aucune connexion internet requise.
+  Donn\xE9es lexicographiques sous licence CC BY-SA 3.0
+  (Fran\xE7ois Gannaz, littre.org).
 WebSite: https://github.com/funkypitt/littre-app

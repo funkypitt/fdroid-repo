@@ -7,10 +7,11 @@ IssueTracker: https://github.com/funkypitt/pluralis/issues
 License: GPL-3.0-only
 Name: Pluralis
 SourceCode: https://github.com/funkypitt/pluralis
-Summary: Alternative news aggregator — EN & FR RSS feeds
+Summary: E-ink friendly RSS/Atom reader for Android
 Description: |
-  Pluralis is a local-first RSS news reader with 33 curated alternative
-  media sources (26 EN + 7 FR). Features an e-ink optimized paged reader,
-  bookmarks, per-source browsing, and Substack paid content support.
-  No accounts, no tracking, fully offline-capable.
+  Lightweight RSS/Atom feed reader with a paginated reading mode
+  optimized for e-ink displays. Serif typography, adaptive font sizing,
+  tap zones for page turns. Bookmarks, OPML import/export, paid
+  Substack support via cookie authentication.
+  No accounts, no tracking — fully local and offline-capable.
 WebSite: https://github.com/funkypitt/pluralis
