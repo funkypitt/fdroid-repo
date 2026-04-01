@@ -1,0 +1,26 @@
+AuthorName: funkypitt
+Categories:
+- Games
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/tankwars-mobile/issues
+License: MIT
+Name: Tank Wars Mobile
+SourceCode: https://github.com/funkypitt/tankwars-mobile
+Summary: Classic artillery game rebuilt for mobile. 2-player local and online.
+Description: |
+  Tank Wars Mobile is a faithful recreation of the classic DOS artillery game
+  Tank Wars 3.2 (1992) by Kenneth Morse, rebuilt from the ground up for mobile
+  touchscreens.
+
+  Two players take turns aiming their tanks and firing an arsenal of weapons at
+  each other across randomly generated destructible terrain. Judge the angle,
+  power, and wind to land your shots — there's no trajectory preview, so every
+  shot is a test of skill and intuition.
+
+  16 weapons including nukes, MIRVs, lasers, and chain reaction inducers.
+  3 defense systems: shields, inertia dampeners, and repulsers.
+  6 wall types, 5 wind levels, destructible terrain with crumbling.
+  Local 2-player hot-seat and online multiplayer via Firebase.
+
+  Free and open source. No ads. No tracking. No in-app purchases.
+WebSite: https://github.com/funkypitt/tankwars-mobile
