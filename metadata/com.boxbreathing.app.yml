@@ -1,0 +1,16 @@
+AuthorName: funkypitt
+Categories:
+- Sports & Health
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/box-breathing/issues
+License: GPL-3.0-only
+Name: Box Breathing
+SourceCode: https://github.com/funkypitt/box-breathing
+Summary: Minimalist 4-minute guided box breathing exercise
+Description: |
+  A calming, distraction-free breathing exercise app. Follow the
+  animated guide around a square: breathe in, hold, breathe out, hold.
+  The 4-minute session starts with a 3-second rhythm and gently
+  transitions to 4 seconds halfway through. Bilingual instructions
+  (English / French). No accounts, no ads, no tracking.
+WebSite: https://github.com/funkypitt/box-breathing
