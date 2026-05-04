@@ -1,0 +1,31 @@
+AuthorName: funkypitt
+Categories:
+- Games
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/jeux-du-jour/issues
+License: MIT
+Name: Jeux du Jour
+SourceCode: https://github.com/funkypitt/jeux-du-jour
+Summary: French daily word games — Le Mot, L'Hexagone, Connexions. Offline, no ads.
+Description: |
+  Jeux du Jour is a collection of three French daily word games inspired by
+  the New York Times puzzle games. Every player gets the same puzzle on the
+  same day, generated deterministically from a date-based seed — no server
+  needed.
+
+  Le Mot (Wordle): Guess the 5-letter French word in 6 tries. Color-coded
+  feedback helps narrow down the answer.
+
+  L'Hexagone (Spelling Bee): Form as many words as possible using 7 letters
+  arranged in a hexagonal grid. Every word must include the center letter.
+  Climb from Débutant to Génie.
+
+  Connexions (Connections): Sort 16 words into four groups of four that share
+  a hidden connection. Four difficulty levels from yellow (easy) to purple
+  (tricky).
+
+  Dictionary powered by Lexique383 from lexique.org (109,000+ French words).
+  30 hand-curated Connexions puzzles included.
+
+  Free and open source. No ads. No tracking. No accounts. Works fully offline.
+WebSite: https://github.com/funkypitt/jeux-du-jour
