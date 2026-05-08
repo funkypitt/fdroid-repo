@@ -3,7 +3,7 @@ Categories:
 - Reading
 CurrentVersionCode: 2147483647
 License: GPL-3.0-only
-Name: Magazine Reader (debug)
+Name: ePub Magazine reader
 Summary: ePub reader tuned for daily newspaper / magazine issues
 Description: |
   Fork of Book's Story (ua.acclorite.book_story) with an opinionated
