@@ -1,0 +1,22 @@
+AuthorName: funkypitt
+Categories:
+- Reading
+CurrentVersionCode: 2147483647
+License: GPL-3.0-only
+Name: Magazine Reader (debug)
+Summary: ePub reader tuned for daily newspaper / magazine issues
+Description: |
+  Fork of Book's Story (ua.acclorite.book_story) with an opinionated
+  magazine-mode parser and TOC for ePub issues produced by the in-house
+  newsletter generator (NZZ, 24 heures, Courrier International, Economist
+  fixtures).
+
+  Detects magazine ePubs at open time, paginates the table of contents
+  with one card per article (category, title, optional cover image),
+  and routes tap → article view rendered by an in-zip WebView.
+
+  A permanent three-zone navigation header (prev / home / next) sits on
+  top of the existing tap-zone gesture system on every magazine screen.
+
+  Debug-signed; sideload only. Coexists with upstream Book's Story
+  release thanks to the .debug application id suffix.
