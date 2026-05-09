@@ -1,0 +1,28 @@
+AuthorName: funkypitt
+Categories:
+- Games
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/stardust/issues
+License: GPL-2.0-or-later
+Name: We Are Stardust
+SourceCode: https://github.com/funkypitt/stardust
+Summary: "\"We Are Stardust\" — Commodore 64 release in a stand-alone Android app"
+Description: |
+  A single-purpose Android app that ships an embedded Commodore 64
+  emulator (Frodo by Christian Bauer) pre-configured to autoload the
+  "We Are Stardust" disk image. Open the app, the C64 boots, the disk
+  runs — no ROM picking, no menus, no setup.
+
+  The emulator core is bundled as a native NDK component (armeabi-v7a,
+  arm64-v8a, x86, x86_64). The Java side adds a fullscreen landscape
+  activity, on-screen touch input, and an action strip for emulator
+  commands.
+
+  Embedded C64 emulator (Frodo). Autoloads "We Are Stardust (M).d64"
+  on launch. Fullscreen landscape with touch controls. Native cores
+  for arm/x86, 32-bit and 64-bit. No external files or ROMs to
+  manage.
+
+  Licensed under GPL-2.0-or-later — required by the embedded Frodo
+  emulator (Christian Bauer).
+WebSite: https://github.com/funkypitt/stardust
