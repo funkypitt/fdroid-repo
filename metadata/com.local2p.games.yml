@@ -6,9 +6,9 @@ IssueTracker: https://github.com/funkypitt/local-2p-games/issues
 License: MIT
 Name: 2P Games
 SourceCode: https://github.com/funkypitt/local-2p-games
-Summary: 16 multiplayer games — play locally or online. No ads, no accounts.
+Summary: 15 multiplayer games — play locally or online. No ads, no accounts.
 Description: |
-  2P Games is a collection of 16 touch-friendly multiplayer games for two
+  2P Games is a collection of 15 touch-friendly multiplayer games for two
   players. Play locally on one device or online with a friend. No accounts,
   no ads.
 
@@ -16,7 +16,7 @@ Description: |
   4 in a Row, Caro, Awalé, Memory, Duck-Day Chess, Tank Wars, Ship Battle,
   Dots & Boxes, Word Clash, and Tic Tac Toe.
 
-  Also includes Tennis (with power-ups), Pool, Word Clash, Air Hockey, Mini Golf,
+  Also includes Tennis (with power-ups), Word Clash, Air Hockey, Mini Golf,
   Star Clash, Wheel of Funktune, and Horse Jump.
 
   Each game has built-in instructions accessible via the ? button.
