@@ -1,0 +1,32 @@
+AuthorName: funkypitt
+Categories:
+- Multimedia
+- Internet
+CurrentVersionCode: 2147483647
+License: GPL-3.0-only
+Name: Sobre
+SourceCode: https://github.com/funkypitt/sobre
+Summary: Audio-only YouTube subscription player, 100% text
+Description: |
+  Sobre is an anti-brainrot audio player for YouTube subscriptions.
+  It plays only the audio from channels you explicitly follow —
+  no video, no thumbnails, no algorithmic recommendations, no Shorts,
+  no comments, no infinite scroll.
+
+  The interface is 100% text: no images, no icons, no avatars.
+  Subscribe by pasting a channel or video URL, or by sharing directly
+  from the YouTube app.
+
+  Features:
+  * Audio-only playback with background and lock screen support
+  * Subscribe to channels via URL paste or Android share intent
+  * Chronological feed — no algorithm, no recommendations
+  * Episode chapters and full descriptions
+  * Adjustable playback speed (0.75x to 2x)
+  * Download episodes for offline listening
+  * Periodic RSS-based feed refresh
+  * High-contrast text UI, e-ink friendly
+  * Fully local, no accounts, no tracking
+
+  Built with NewPipeExtractor (GPLv3). Not affiliated with YouTube.
+WebSite: https://github.com/funkypitt/sobre
