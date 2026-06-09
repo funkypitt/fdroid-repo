@@ -1,0 +1,26 @@
+AuthorName: funkypitt
+Categories:
+- System
+CurrentVersionCode: 2147483647
+License: MIT
+Name: 9Barista Timer
+Summary: Espresso timer for the 9Barista stovetop machine. 3 taps, nothing more.
+Description: |
+  A minimal espresso timer designed for the 9Barista double-boiler stovetop
+  espresso machine.
+
+  Three taps per brew:
+  1. Tap to start heating (counts up, warns at 8 minutes)
+  2. Tap when espresso appears — starts extraction timer with circular
+     progress ring, turns green in the 25–30 second target zone
+  3. Tap when done — shows results and grind adjustment advice
+
+  Haptic feedback at 25s (target zone), 30s (over target), and 8 min
+  (max heating). Screen stays on during brewing.
+
+  Timings based on official 9Barista recommendations:
+  • Heating: 3–6 minutes typical
+  • Extraction: 25–30 seconds
+  • Target output: 35–40g
+
+  No ads. No tracking. No accounts. No permissions beyond vibration.
