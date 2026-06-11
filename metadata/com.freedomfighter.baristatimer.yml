@@ -3,11 +3,12 @@ Categories:
 - System
 CurrentVersionCode: 2147483647
 License: MIT
-Name: 9Barista Timer
-Summary: Espresso timer for the 9Barista stovetop machine. 3 taps, nothing more.
+Name: Timer for 9Barista
+Summary: Unofficial espresso timer for the 9Barista stovetop machine. 3 taps only.
 Description: |
   A minimal espresso timer designed for the 9Barista double-boiler stovetop
-  espresso machine.
+  espresso machine. Unofficial and fan-made — not affiliated with or endorsed
+  by 9Barista Ltd.
 
   Three taps per brew:
   1. Tap to start heating (counts up, warns at 8 minutes)
