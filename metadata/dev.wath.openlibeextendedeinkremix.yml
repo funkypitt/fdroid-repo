@@ -1,8 +1,8 @@
 AuthorName: funkypitt
 Categories:
 - Reading
-CurrentVersion: '1.1.0'
-CurrentVersionCode: 15
+CurrentVersion: '1.1.1'
+CurrentVersionCode: 2016
 IssueTracker: https://github.com/funkypitt/funky-openlib/issues
 License: AGPL-3.0-only
 Name: OpenLibe e-Ink Remix
