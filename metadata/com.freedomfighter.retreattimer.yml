@@ -1,0 +1,30 @@
+AuthorName: funkypitt
+Categories:
+- Time
+License: MIT
+Name: Retreat Timer
+SourceCode: https://github.com/funkypitt/retreat-timer
+Summary: Rings three meditation bells on schedule, even in deep sleep
+Description: |
+  Retreat Timer rings a recording of three singing-bowl bells at the times of day
+  you choose — the signal to begin or end a sitting — so a meditation retreat
+  keeps running on schedule even when the teacher is not present.
+
+  Built for one job: the bells ring no matter what.
+
+  * Exact alarms via the same mechanism the stock Clock app uses, so they fire on
+    time even when the device is locked, asleep, or in Doze for hours.
+  * A foreground service holds a wake lock and plays through the alarm stream, so
+    the system cannot mute or kill the bells mid-ring.
+  * Alarms are re-armed automatically after a reboot, time change, or app update.
+  * A readiness light turns green once battery optimisation and notifications are
+    set, so the teacher can leave knowing the schedule is safe.
+
+  Easy to set up:
+
+  * Tap + to add the next bell exactly one hour after the last (07:45 then 08:45).
+  * Tap any time to edit it; toggle bells on or off; delete with one tap.
+  * Per-bell and global Test buttons play the bells at the exact volume the room
+    will hear, set with a slider.
+
+  No ads, no tracking, no accounts. The schedule repeats every day.
