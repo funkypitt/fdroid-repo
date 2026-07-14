@@ -1,0 +1,32 @@
+AuthorName: funkypitt
+Categories:
+- Multimedia
+License: MIT
+Name: Retreat Player
+SourceCode: https://github.com/funkypitt/retreat-player
+Summary: Plays retreat recordings offline, with nothing able to interrupt them
+Description: |
+  Retreat Player plays MP3s of dhamma talks, bells, and chanting during a
+  meditation retreat — built on the same principle as Retreat Timer: once
+  playback starts, nothing interrupts it.
+
+  * Every recording is downloaded into the app's own storage when it is loaded,
+    so playback needs no network — airplane mode is fine.
+  * Playback runs in a foreground service holding a wake lock: the system
+    cannot kill or pause it, even with the screen off for an hour-long talk.
+  * The screen stays on while a recording plays — no lock, no screensaver —
+    showing the progress the whole time.
+  * A recording plays only because you pressed play, and only once: when it
+    ends, nothing else starts automatically.
+
+  Loading and organising:
+
+  * Tap + to load recordings from the phone, from a shared WebDAV folder
+    (e.g. Infomaniak kDrive), or from a podcast feed; folder and feed URLs are
+    remembered for next time.
+  * Tiles are filed into two sections — Bells & chanting on top (used every
+    day), then Dharma talks — and ordered by hand with arrows.
+  * The player shows elapsed and remaining time together, with play, pause,
+    stop, 10-second jumps, and back-to-beginning.
+
+  No ads, no tracking, no accounts.
