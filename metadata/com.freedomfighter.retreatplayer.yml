@@ -21,9 +21,9 @@ Description: |
 
   Loading and organising:
 
-  * Tap + to load recordings from the phone, from a shared WebDAV folder
-    (e.g. Infomaniak kDrive), or from a podcast feed; folder and feed URLs are
-    remembered for next time.
+  * Tap + to load recordings from the phone, from a shared kDrive folder
+    (public link — read-only, no password), or from a podcast feed; the link
+    and feed URLs are remembered for next time.
   * Tiles are filed into two sections — Bells & chanting on top (used every
     day), then Dharma talks — and ordered by hand with arrows.
   * The player shows elapsed and remaining time together, with play, pause,
