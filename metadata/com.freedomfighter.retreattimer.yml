@@ -27,4 +27,12 @@ Description: |
   * Per-bell and global Test buttons play the bells at the exact volume the room
     will hear, set with a slider.
 
+  Dharma talk library:
+
+  * Add talks from this phone, an Infomaniak kDrive public share link, or a
+    podcast RSS feed — every import is downloaded into the app so playback works
+    with no network at all.
+  * Play a talk instantly, or schedule one to play at a set time exactly like a
+    bell.
+
   No ads, no tracking, no accounts. The schedule repeats every day.
