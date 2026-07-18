@@ -40,5 +40,9 @@ Description: |
     with no network at all.
   * Play a talk instantly, or schedule one to play at a set time exactly like a
     bell.
+  * A player bar with a draggable progress bar — talks often open with minutes
+    of silence, so drag straight to the speech instead of waiting it out.
+    Restart, 10 seconds back and forward, pause, and both elapsed and remaining
+    time, from the app or the notification.
 
   No ads, no tracking, no accounts. The schedule repeats every day.
