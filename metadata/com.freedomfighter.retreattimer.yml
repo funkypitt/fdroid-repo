@@ -44,5 +44,11 @@ Description: |
     of silence, so drag straight to the speech instead of waiting it out.
     Restart, 10 seconds back and forward, pause, and both elapsed and remaining
     time, from the app or the notification.
+  * Optional "keep Bluetooth speaker awake": portable speakers disconnect after
+    a few minutes of silence, so the next bell would come faintly from the
+    tablet. Turn it on when using an external speaker and it plays a
+    barely-audible sound between bells to hold the link open. The bells are
+    untouched — still the exact-alarm system, this is only a separate faint
+    stream.
 
   No ads, no tracking, no accounts. The schedule repeats every day.
