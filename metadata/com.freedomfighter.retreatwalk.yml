@@ -1,0 +1,33 @@
+AuthorName: funkypitt
+Categories:
+- Time
+License: MIT
+Name: Retreat Walk
+Summary: Rings a bell every so many minutes, until you stop it
+Description: |
+  Retreat Walk rings a singing bowl at a fixed interval — every 10 minutes, say —
+  over and over until you stop it. For switching partners in a paired meditation
+  exercise, and for sitting with a regular reminder to stay awake.
+
+  One number and one button. That is the whole app.
+
+  * Set the minutes between bells and press Start. The bell rings at that many
+    minutes, then at twice, then three times, and on and on.
+  * Press Stop in the app, or on the notification, and the session ends.
+  * The screen shows a countdown to the next bell and how many have rung.
+
+  It rings on time:
+
+  * Every bell is an exact alarm, the same mechanism the phone's own Clock app
+    uses, so it fires even when the device is locked, asleep or in power-saving
+    Doze.
+  * The session runs in a foreground service holding a wake lock, so the system
+    cannot mute the bowl or kill it partway through.
+  * Bells are timed from the start of the session rather than from the previous
+    bell, so an hour in they have not drifted away from the clock.
+  * The notification is silent and carries a Stop action — the bowl is the only
+    sound the app ever makes, which is what a quiet room needs.
+
+  The bell is a single strike of the Satipanya bowl, shared with Retreat Timer.
+
+  No ads, no tracking, no accounts, and no network permission at all.
