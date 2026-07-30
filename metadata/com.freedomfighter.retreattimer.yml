@@ -4,11 +4,12 @@ Categories:
 License: MIT
 Name: Retreat Timer
 SourceCode: https://github.com/funkypitt/retreat-timer
-Summary: Rings three meditation bells on schedule, even in deep sleep
+Summary: Rings one or three meditation bells on schedule, even in deep sleep
 Description: |
-  Retreat Timer rings a recording of three singing-bowl bells at the times of day
-  you choose — the signal to begin or end a sitting — so a meditation retreat
-  keeps running on schedule even when the teacher is not present.
+  Retreat Timer rings a recording of singing-bowl bells at the times of day you
+  choose — the signal to begin or end a sitting — so a meditation retreat keeps
+  running on schedule even when the teacher is not present. Each time can ring
+  three bells or a single bell, whichever that moment in the day calls for.
 
   Built for one job: the bells ring no matter what.
 
@@ -24,14 +25,20 @@ Description: |
 
   * Tap Add bell and pick the time. The picker opens ready for typing, so any
     minute is set directly — 06:47, not just 06:45 — with a dial one tap away.
-  * Tap any time to edit it; toggle bells on or off; delete with one tap.
+  * In that same picker, choose three bells or one for this time — three to open
+    and close a sitting, one for the smaller markers in a day. Preview either
+    before setting it. The schedule shows a small x3 or x1 badge beside every
+    bell, so which rings which is readable at a glance.
+  * Tap any time to edit it — and its number of bells; toggle bells on or off;
+    delete with one tap.
   * Four bell sounds to choose from — singing bell, Tibetan E flat bowl, gong
     bowl and Satipanya — all matched to the same loudness, so switching changes
-    the timbre and never the volume.
+    the timbre and never the volume. One bell and three bells are matched too.
   * Bell volume and talk volume are set separately, because a spoken recording
     normally has to be much louder than a bowl strike to fill the same room.
     Each has its own Test button that plays at the exact level the room will
-    hear, and Test talk uses the talk that is actually coming up next.
+    hear. Test bell rings once, which is all it takes to judge the level, and
+    Test talk uses the talk that is actually coming up next.
 
   Dharma talk library:
 
