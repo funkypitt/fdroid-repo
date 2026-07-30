@@ -1,1 +1,87 @@
-{"/etc/issue.net":"Pop!_OS 24.04 LTS","antiFeatures":{},"apksigner":"/home/freedomfighter/android-sdk/build-tools/36.0.0/apksigner","archivePolicy0":[],"commandLine":["/home/freedomfighter/.local/bin/fdroid update"],"disabled":[],"endTimestamp":1785394664540,"failedBuilds":{},"fdroiddata":{"commitId":"c00186eb69dde925e7359cdd28807c0287cdbee2","isDirty":true,"modifiedFiles":["metadata/com.freedomfighter.retreattimer.yml"],"untrackedFiles":["repo/RetreatTimer-v1.11.0.apk"]},"jarsigner":"/home/freedomfighter/jdk-21/bin/jarsigner","keytool":"/home/freedomfighter/jdk-21/bin/keytool","needsUpdate":["app.sobre.player","ch.ebibliomedia.bsr","ch.littre.littre_app","com.boxbreathing.app","com.freedomfighter.baristatimer","com.freedomfighter.jeuxdujour","com.freedomfighter.retreatplayer","com.freedomfighter.retreattimer","com.local2p.games","com.parentcontrol.socialblocker.detox","com.pluralis.pluralis","com.tankwars.mobile","ua.acclorite.book_story.debug"],"noPackages":["app.sobre.player","ch.ebibliomedia.bsr","ch.littre.littre_app","com.boxbreathing.app","com.freedomfighter.baristatimer","com.freedomfighter.jeuxdujour","com.freedomfighter.retreatplayer","com.freedomfighter.retreattimer","com.local2p.games","com.parentcontrol.socialblocker.detox","com.pluralis.pluralis","com.tankwars.mobile","dev.wath.openlibeextendedeinkremix","ua.acclorite.book_story.debug"],"noUpdateCheck":["app.sobre.player","ch.ebibliomedia.bsr","ch.littre.littre_app","com.boxbreathing.app","com.freedomfighter.baristatimer","com.freedomfighter.jeuxdujour","com.freedomfighter.retreatplayer","com.freedomfighter.retreattimer","com.local2p.games","com.parentcontrol.socialblocker.detox","com.pluralis.pluralis","com.tankwars.mobile","dev.wath.openlibeextendedeinkremix","ua.acclorite.book_story.debug"],"stages":{"delete_disabled_builds":1785394662218,"index.make repo":1785394662550,"prepare_apps repo":1785394662548,"process_apks":1785394662219,"read_added_date_from_all_apks":1785394662548,"remove_apks":1785394662546,"scan_repo_files":1785394662545},"startTimestamp":1785391062000,"subcommand":"update"}
+{
+  "/etc/issue.net": "Pop!_OS 24.04 LTS",
+  "antiFeatures": {},
+  "apksigner": "/home/freedomfighter/android-sdk/build-tools/36.0.0/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/freedomfighter/.local/bin/fdroid update",
+    "--create-metadata",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1785398196751,
+  "failedBuilds": {},
+  "fdroiddata": {
+    "commitId": "55a6ab426ac17562f650f66862a1d489d722c8f4",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      "metadata/app.mp4tomp3.yml",
+      "metadata/app.mp4tomp3/en-US/images/icon.png",
+      "repo/MP4-to-MP3-v1.0.0.apk"
+    ]
+  },
+  "jarsigner": "/home/freedomfighter/jdk-21/bin/jarsigner",
+  "keytool": "/home/freedomfighter/jdk-21/bin/keytool",
+  "needsUpdate": [
+    "app.mp4tomp3",
+    "app.sobre.player",
+    "ch.ebibliomedia.bsr",
+    "ch.littre.littre_app",
+    "com.boxbreathing.app",
+    "com.freedomfighter.baristatimer",
+    "com.freedomfighter.jeuxdujour",
+    "com.freedomfighter.retreatplayer",
+    "com.freedomfighter.retreattimer",
+    "com.local2p.games",
+    "com.parentcontrol.socialblocker.detox",
+    "com.pluralis.pluralis",
+    "com.tankwars.mobile",
+    "ua.acclorite.book_story.debug"
+  ],
+  "noPackages": [
+    "app.mp4tomp3",
+    "app.sobre.player",
+    "ch.ebibliomedia.bsr",
+    "ch.littre.littre_app",
+    "com.boxbreathing.app",
+    "com.freedomfighter.baristatimer",
+    "com.freedomfighter.jeuxdujour",
+    "com.freedomfighter.retreatplayer",
+    "com.freedomfighter.retreattimer",
+    "com.local2p.games",
+    "com.parentcontrol.socialblocker.detox",
+    "com.pluralis.pluralis",
+    "com.tankwars.mobile",
+    "dev.wath.openlibeextendedeinkremix",
+    "ua.acclorite.book_story.debug"
+  ],
+  "noUpdateCheck": [
+    "app.mp4tomp3",
+    "app.sobre.player",
+    "ch.ebibliomedia.bsr",
+    "ch.littre.littre_app",
+    "com.boxbreathing.app",
+    "com.freedomfighter.baristatimer",
+    "com.freedomfighter.jeuxdujour",
+    "com.freedomfighter.retreatplayer",
+    "com.freedomfighter.retreattimer",
+    "com.local2p.games",
+    "com.parentcontrol.socialblocker.detox",
+    "com.pluralis.pluralis",
+    "com.tankwars.mobile",
+    "dev.wath.openlibeextendedeinkremix",
+    "ua.acclorite.book_story.debug"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1785398194636,
+    "index.make repo": 1785398194883,
+    "prepare_apps repo": 1785398194865,
+    "process_apks": 1785398194637,
+    "read_added_date_from_all_apks": 1785398194864,
+    "remove_apks": 1785398194862,
+    "scan_repo_files": 1785398194861
+  },
+  "startTimestamp": 1785394594000,
+  "subcommand": "update"
+}
