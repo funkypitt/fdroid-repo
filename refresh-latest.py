@@ -25,6 +25,7 @@ LATEST = HERE / "latest"
 APPS = {
     "com.freedomfighter.retreattimer": "RetreatTimer-latest.apk",
     "com.freedomfighter.retreatplayer": "RetreatPlayer-latest.apk",
+    "com.freedomfighter.retreatwalk": "RetreatWalk-latest.apk",
 }
 
 

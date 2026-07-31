@@ -1,8 +1,10 @@
 AuthorName: funkypitt
 Categories:
 - Time
+IssueTracker: https://github.com/funkypitt/retreat-walk/issues
 License: MIT
 Name: Retreat Walk
+SourceCode: https://github.com/funkypitt/retreat-walk
 Summary: Rings a bell every so many minutes, until you stop it
 Description: |
   Retreat Walk rings a singing bowl at a fixed interval — every 10 minutes, say —
