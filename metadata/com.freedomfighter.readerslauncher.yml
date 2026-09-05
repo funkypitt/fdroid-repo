@@ -21,5 +21,9 @@ Description: |
     actions (add to home, category, rename, hide, app info, uninstall).
   * Swipe up and hold on the home screen for a text list of recently used apps.
   * Swipe down for notifications. Export and import the whole setup as a JSON file.
+  * Two books beside the home screen: swipe right or left to read (EPUB, MOBI, FB2,
+    text), tap to turn pages, position remembered per book. Reading made effortless.
+  * English by default; French, German, Spanish, Portuguese and Russian when the device
+    uses them.
 
   Serif, sans or monospace; three text sizes; left or centred. No ads, no tracking.
