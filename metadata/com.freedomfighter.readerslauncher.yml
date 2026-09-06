@@ -10,7 +10,8 @@ Description: |
   no colours, no wallpaper: white on black, or black on white — flip between the two
   with a double tap, from the "Reader's theme" quick-settings tile, or in settings.
 
-  * Tiles are plain text: an app, or a category that opens a text list of apps.
+  * The home screen is one fixed page that never scrolls. Tiles are plain text: an app,
+    or a category that opens a text list of apps.
   * A grid of 3 to 5 squares pinned at the bottom holds the unavoidable apps (phone,
     messages…) with their icons rendered as monochrome glyphs.
   * Built-in widgets: clock; weather (Open-Meteo, no account, tap for five days);
