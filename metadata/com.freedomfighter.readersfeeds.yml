@@ -1,0 +1,15 @@
+AuthorName: funkypitt
+Categories:
+- Reading
+- Internet
+License: GPL-3.0-only
+Name: Reader's Feeds
+SourceCode: https://github.com/funkypitt/readers-feeds
+IssueTracker: https://github.com/funkypitt/readers-feeds/issues
+WebSite: https://github.com/funkypitt/readers-feeds
+Summary: Black-and-white, text-only RSS reader
+Description: |
+  The latest articles of your RSS and Atom sources as a plain list, read as
+  pages cut at whole lines. Sources, saved articles, OPML and paid Substacks.
+  White on black or black on white, no icons, no colours; pages instead of
+  scrolling for e-ink screens. Born from Pluralis.
