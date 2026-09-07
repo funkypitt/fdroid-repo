@@ -1,0 +1,21 @@
+AuthorName: funkypitt
+Categories:
+- Time
+License: MIT
+Name: Reader's Calendar
+SourceCode: https://github.com/funkypitt/readers-calendar
+Summary: Black-and-white, text-only calendar
+Description: |
+  Reader's Calendar shows the phone's own calendars — the ones your accounts already
+  sync (Google, Infomaniak, Nextcloud…) — as plain text, white on black or black on
+  white. No colour codes: the calendar an event belongs to is named in a quiet line of
+  text on the event's page.
+
+  * Agenda: the coming days as a list. Month: a grid of numbers, a dot for days with
+    events, today inverted. Week: a list in portrait, a time grid in landscape.
+  * Event page with location and description; create and edit events with reminder,
+    repetition, all-day, calendar choice.
+  * Landscape puts the month grid beside the agenda and splits event pages in two.
+  * Can be the default calendar app, including for Reader's Launcher's agenda tile.
+
+  Serif, sans or monospace; three text sizes. No account, no network of its own.
