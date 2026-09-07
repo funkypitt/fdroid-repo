@@ -1,0 +1,21 @@
+AuthorName: funkypitt
+Categories:
+- Writing
+License: MIT
+Name: Reader's Tasks
+SourceCode: https://github.com/funkypitt/readers-tasks-android
+Summary: Black-and-white, text-only CalDAV task lists
+Description: |
+  Reader's Tasks shows the open tasks of a CalDAV list — Infomaniak, Nextcloud,
+  Tasks.org Cloud, Radicale, any server that stores VTODO — as plain text, white on
+  black or black on white. Tick a box to complete, tap the line at the bottom to add,
+  long press for rename, due tomorrow, delete. "show n done" brings completed tasks
+  back so a box ticked by mistake can be reopened. Lists can be hidden and reordered.
+
+  It is the task app behind the tasks tile of Reader's Launcher: the launcher reads
+  and writes the lists directly, with no permission prompt, since both apps are signed
+  with the same key. The desktop twin for Linux lives at
+  github.com/funkypitt/readers-tasks.
+
+  Serif, sans or monospace; three text sizes. No account with the app itself, no
+  tracking: your server, your app password, stored on the phone only.
