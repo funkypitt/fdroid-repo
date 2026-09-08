@@ -1,0 +1,14 @@
+AuthorName: funkypitt
+Categories:
+- Writing
+License: MIT
+Name: Reader's Notes
+SourceCode: https://github.com/funkypitt/readers-notes
+IssueTracker: https://github.com/funkypitt/readers-notes/issues
+WebSite: https://github.com/funkypitt/readers-notes
+Summary: Black-and-white plain-text notes, synced over WebDAV
+Description: |
+  One list, one page. A note is a text file whose first line is its title.
+  Notes live in a WebDAV folder (kDrive, Nextcloud…) as plain .txt files,
+  synced both ways with conflict copies. White on black or black on white,
+  no formatting, no folders, no colours. Shared text becomes a note.
