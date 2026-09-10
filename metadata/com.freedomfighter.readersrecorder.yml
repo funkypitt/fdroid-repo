@@ -6,7 +6,7 @@ Name: Reader's Recorder
 SourceCode: https://github.com/funkypitt/readers-recorder
 IssueTracker: https://github.com/funkypitt/readers-recorder/issues
 WebSite: https://github.com/funkypitt/readers-recorder
-Summary: Black-and-white voice recorder; your own computer cleans and transcribes
+Summary: Black-and-white voice recorder that transcribes on the phone (whisper.cpp); optional cloud folder
 Description: |
   Record a memo, a lecture or a conversation with one tap (list, widget,
   Reader's Launcher tile). Nothing leaves the phone by default. Set up a
