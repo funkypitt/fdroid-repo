@@ -1,0 +1,17 @@
+AuthorName: funkypitt
+Categories:
+- Time
+License: MIT
+Name: Reader's Mindful Tool
+SourceCode: https://github.com/funkypitt/readers-mindful
+IssueTracker: https://github.com/funkypitt/readers-mindful/issues
+WebSite: https://github.com/funkypitt/readers-mindful
+Summary: A bowl every X minutes, a timed meditation, bowls at set times
+Description: |
+  Three things a meditator asks of a bowl, black and white, text only:
+  a single strike every X minutes until you stop it, a meditation of X
+  minutes closed by three bowls, and one or three bowls at set times every
+  day. Retreat Timer's five bowls or your own mp3/wav. Bowls are armed as
+  exact alarm-clock alarms and rung by a foreground service, so they sound
+  on time through Doze and silent mode. Home-screen widget (play/stop,
+  minutes, countdown, progress) and a Reader's Launcher tile.
