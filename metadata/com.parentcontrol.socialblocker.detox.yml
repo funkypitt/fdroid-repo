@@ -1,9 +1,14 @@
-AuthorName: ''
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
 Categories:
-- fdroid-repo
-CurrentVersionCode: 2147483647
-IssueTracker: ''
+- Internet
+License: GPL-3.0-only
 Name: Social Detox
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: https://github.com/funkypitt/SocialBlocker-Detox
+IssueTracker: https://github.com/funkypitt/SocialBlocker-Detox/issues
+Summary: Local DNS VPN that blocks social networks
+Description: |
+  Social Detox blocks social networks on the device with a local DNS VPN.
+  No account, no server: the filtering happens on the phone, also on IPv6-only carriers.
+
+  Pierre Gallaz · developed with Claude Code.
