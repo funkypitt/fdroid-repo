@@ -6,7 +6,7 @@ Name: Reader's Audio Player
 SourceCode: https://github.com/funkypitt/readers-audio
 IssueTracker: https://github.com/funkypitt/readers-audio/issues
 WebSite: https://github.com/funkypitt/readers-audio
-Summary: Plain black-and-white audio player that transcribes on the phone
+Summary: Plain black-and-white audio player that transcribes on the phone, in the language and quality you choose
 Description: |
   Plays audio files and resumes each one where it was left. Standard
   Media3 playback: media notification with −5 s, play/pause, +10 s and
