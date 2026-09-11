@@ -1,0 +1,20 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Reading
+CurrentVersion: '1.4.1'
+CurrentVersionCode: 2023
+IssueTracker: https://github.com/funkypitt/funky-openlib/issues
+License: AGPL-3.0-only
+Name: OpenLibe e-Ink Remix
+SourceCode: https://github.com/funkypitt/funky-openlib
+Summary: E-ink optimized e-book reader and library browser
+Description: |
+  Open-source e-book reader optimized for e-ink displays. Paginated
+  EPUB reading with adaptive font sizing, high-contrast themes, and
+  tap zones designed for e-paper. Search and download from online
+  library catalogs. Local library management.
+  This application is a reading tool. It does not host any content.
+  Users are solely responsible for compliance with copyright laws
+  in their jurisdiction.
+WebSite: https://github.com/funkypitt/funky-openlib
