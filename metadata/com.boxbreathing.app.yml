@@ -2,7 +2,8 @@ AuthorName: Pierre Gallaz
 AuthorWebSite: https://gallaz.ch/eink
 Categories:
 - Sports & Health
-CurrentVersionCode: 2147483647
+CurrentVersion: '1.1.1'
+CurrentVersionCode: 3
 IssueTracker: https://github.com/funkypitt/box-breathing/issues
 License: GPL-3.0-only
 Name: Box Breathing 4min
