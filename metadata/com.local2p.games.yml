@@ -2,10 +2,10 @@ AuthorName: Pierre Gallaz
 AuthorWebSite: https://gallaz.ch/eink
 Categories:
 - Games
-CurrentVersionCode: 2147483647
+CurrentVersionCode: 38
 IssueTracker: https://github.com/funkypitt/local-2p-games/issues
 License: MIT
-Name: 2P Games
+Name: Funky's 2P Games
 SourceCode: https://github.com/funkypitt/local-2p-games
 Summary: 16 multiplayer games — play locally or online. No ads, no accounts.
 Description: |
