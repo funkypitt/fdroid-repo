@@ -69,6 +69,9 @@ def main():
 
     if changed:
         print("\nCommit and push fdroid-repo to publish the new downloads.")
+        print("Then refresh the landing page (it re-reads the published index):\n"
+              "  gh workflow run update-versions.yml -R funkypitt/gallaz-ch-eink\n"
+              "(it also runs by itself every morning).")
 
 
 if __name__ == "__main__":
