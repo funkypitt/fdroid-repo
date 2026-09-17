@@ -2,8 +2,8 @@ AuthorName: Pierre Gallaz
 AuthorWebSite: https://gallaz.ch/eink
 Categories:
 - Reading
-CurrentVersion: '1.4.1'
-CurrentVersionCode: 2023
+CurrentVersion: '1.4.2'
+CurrentVersionCode: 2024
 IssueTracker: https://github.com/funkypitt/funky-openlib/issues
 License: AGPL-3.0-only
 Name: OpenLibe e-Ink Remix
