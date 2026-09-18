@@ -1,0 +1,24 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Multimedia
+License: MIT
+Name: Reader's Podcasts
+SourceCode: https://github.com/funkypitt/readers-podcasts
+IssueTracker: https://github.com/funkypitt/readers-podcasts/issues
+WebSite: https://github.com/funkypitt/readers-podcasts
+Summary: "Podcasts in black and white — subscribe, download, listen, nothing else"
+Description: |
+    A podcast player with nothing on the screen but lines of text. Subscribe by pasting the
+    address of a feed or by sharing a link to the app; the episodes wait in one of three lists —
+    what is on the phone or already begun, what is new across all the channels, or one channel at
+    a time. An episode is downloaded or played straight over the connection, resumes exactly where
+    it was left, and once heard through is marked and its file let go.
+
+    Subscriptions travel as OPML, which any podcast app reads, and the settings — with the place
+    each episode was left — as a JSON file. Those two files are the whole of the synchronisation
+    with the desktop twin: there is no server and no account, and nothing leaves the phone but the
+    requests to the feeds themselves.
+
+    English, French, German, Spanish, Portuguese and Russian; white on black or black on white,
+    three fonts, three text sizes.
