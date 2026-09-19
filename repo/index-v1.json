@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1789813319000,
+    "timestamp": 1789847231000,
     "version": 20002,
     "name": "funkypitt's F-Droid Repo",
     "icon": "icon.png",
@@ -422,7 +422,7 @@
       "categories": [
         "Multimedia"
       ],
-      "suggestedVersionCode": "13",
+      "suggestedVersionCode": "15",
       "description": "A podcast player with nothing on the screen but lines of text. Subscribe by pasting the\naddress of a feed or by sharing a link to the app; the episodes wait in one of three lists \u2014\nwhat is on the phone or already begun, what is new across all the channels, or one channel at\na time. An episode is downloaded or played straight over the connection, resumes exactly where\nit was left, and once heard through is marked and its file let go.\n\nSubscriptions travel as OPML, which any podcast app reads, and the settings \u2014 with the place\neach episode was left \u2014 as a JSON file. Those two files are the whole of the synchronisation\nwith the desktop twin: there is no server and no account, and nothing leaves the phone but the\nrequests to the feeds themselves.\n\nEnglish, French, German, Spanish, Portuguese and Russian; white on black or black on white,\nthree fonts, three text sizes.\n",
       "issueTracker": "https://github.com/funkypitt/readers-podcasts/issues",
       "license": "MIT",
@@ -432,7 +432,7 @@
       "webSite": "https://github.com/funkypitt/readers-podcasts",
       "added": 1789734674000,
       "packageName": "com.freedomfighter.readerspodcasts",
-      "lastUpdated": 1789813317000,
+      "lastUpdated": 1789847229000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_xr0L1_C_GE8K_Bm_sJy7AukhggeN_ukoMemT0XIU-a8=.png",
@@ -1384,9 +1384,9 @@
     ],
     "com.freedomfighter.readerspodcasts": [
       {
-        "added": 1789813317000,
-        "apkName": "ReadersPodcasts-v0.4.5.apk",
-        "hash": "c03b40541175cb5cef116b71dc1ee837ef1914905f20f4061ad30201c15fbb72",
+        "added": 1789847229000,
+        "apkName": "ReadersPodcasts-v1.0.0.apk",
+        "hash": "53f6ed3e54a390fd23823bd4cafdcdd0271951117a510f4a2783766538c0595b",
         "hashType": "sha256",
         "minSdkVersion": 29,
         "nativecode": [
@@ -1398,7 +1398,7 @@
         "packageName": "com.freedomfighter.readerspodcasts",
         "sig": "82819964c4766baee9b6f7978fcbaf9e",
         "signer": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c",
-        "size": 31500702,
+        "size": 31545758,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -1438,8 +1438,8 @@
             null
           ]
         ],
-        "versionCode": 13,
-        "versionName": "0.4.5"
+        "versionCode": 15,
+        "versionName": "1.0.0"
       }
     ],
     "com.freedomfighter.readersrecorder": [

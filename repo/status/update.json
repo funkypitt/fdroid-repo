@@ -8,14 +8,14 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1789813321193,
+  "endTimestamp": 1789847233307,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "0f3ee56ef80133fab3ebd8a4a8ac65fba6444d05",
+    "commitId": "39394c4f2df8c1064778b60721eb2d2e84908ae7",
     "isDirty": false,
     "modifiedFiles": [],
     "untrackedFiles": [
-      "repo/ReadersPodcasts-v0.4.5.apk"
+      "repo/ReadersPodcasts-v1.0.0.apk"
     ]
   },
   "jarsigner": "/home/freedomfighter/jdk-21/bin/jarsigner",
@@ -96,17 +96,17 @@
     "com.parentcontrol.socialblocker.detox"
   ],
   "stages": {
-    "archive_old_apks archive": 1789813317359,
-    "delete_disabled_builds": 1789813317034,
-    "index.make archive": 1789813317362,
-    "index.make repo": 1789813319300,
-    "prepare_apps archive": 1789813317361,
-    "prepare_apps repo": 1789813319282,
-    "process_apks": 1789813317034,
-    "read_added_date_from_all_apks": 1789813317359,
-    "remove_apks": 1789813317350,
-    "scan_repo_files": 1789813317350
+    "archive_old_apks archive": 1789847229349,
+    "delete_disabled_builds": 1789847228961,
+    "index.make archive": 1789847229352,
+    "index.make repo": 1789847231405,
+    "prepare_apps archive": 1789847229351,
+    "prepare_apps repo": 1789847231376,
+    "process_apks": 1789847228962,
+    "read_added_date_from_all_apks": 1789847229349,
+    "remove_apks": 1789847229337,
+    "scan_repo_files": 1789847229337
   },
-  "startTimestamp": 1789809716000,
+  "startTimestamp": 1789843628000,
   "subcommand": "update"
 }

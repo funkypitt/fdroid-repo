@@ -14,7 +14,7 @@
       }
     },
     "address": "https://funkypitt.github.io/fdroid-repo/repo",
-    "timestamp": 1789813319000,
+    "timestamp": 1789847231000,
     "categories": {
       "Games": {
         "name": {
@@ -1569,7 +1569,7 @@
           "Multimedia"
         ],
         "issueTracker": "https://github.com/funkypitt/readers-podcasts/issues",
-        "lastUpdated": 1789813317000,
+        "lastUpdated": 1789847229000,
         "license": "MIT",
         "sourceCode": "https://github.com/funkypitt/readers-podcasts",
         "webSite": "https://github.com/funkypitt/readers-podcasts",
@@ -1617,12 +1617,12 @@
         "preferredSigner": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
       },
       "versions": {
-        "c03b40541175cb5cef116b71dc1ee837ef1914905f20f4061ad30201c15fbb72": {
-          "added": 1789813317000,
+        "53f6ed3e54a390fd23823bd4cafdcdd0271951117a510f4a2783766538c0595b": {
+          "added": 1789847229000,
           "file": {
-            "name": "/ReadersPodcasts-v0.4.5.apk",
-            "sha256": "c03b40541175cb5cef116b71dc1ee837ef1914905f20f4061ad30201c15fbb72",
-            "size": 31500702
+            "name": "/ReadersPodcasts-v1.0.0.apk",
+            "sha256": "53f6ed3e54a390fd23823bd4cafdcdd0271951117a510f4a2783766538c0595b",
+            "size": 31545758
           },
           "manifest": {
             "nativecode": [
@@ -1631,8 +1631,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "0.4.5",
-            "versionCode": 13,
+            "versionName": "1.0.0",
+            "versionCode": 15,
             "usesSdk": {
               "minSdkVersion": 29,
               "targetSdkVersion": 34
