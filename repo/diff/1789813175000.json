@@ -1,0 +1,71 @@
+{
+  "repo": {
+    "timestamp": 1789813319000
+  },
+  "packages": {
+    "com.freedomfighter.readerspodcasts": {
+      "metadata": {
+        "lastUpdated": 1789813317000
+      },
+      "versions": {
+        "6e4c3b72cdf0cc16422791e55cbe3605f476dfe8ecacea5f29f35973f510b2c1": null,
+        "c03b40541175cb5cef116b71dc1ee837ef1914905f20f4061ad30201c15fbb72": {
+          "added": 1789813317000,
+          "file": {
+            "name": "/ReadersPodcasts-v0.4.5.apk",
+            "sha256": "c03b40541175cb5cef116b71dc1ee837ef1914905f20f4061ad30201c15fbb72",
+            "size": 31500702
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.4.5",
+            "versionCode": 13,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "com.freedomfighter.readerspodcasts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
