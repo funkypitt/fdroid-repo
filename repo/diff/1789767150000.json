@@ -1,0 +1,264 @@
+{
+  "repo": {
+    "timestamp": 1789810059000
+  },
+  "packages": {
+    "app.sobre.player": {
+      "metadata": {
+        "lastUpdated": 1789810057000,
+        "preferredSigner": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+      },
+      "versions": {
+        "5febce25fafa136808036708e0108e0038aad18d0bd38de34a68f75579de7b5d": null,
+        "fb2cddfb6b09c9fec6c2b7a3a69f82a2385e2895bba967048a121c30f370d63b": {
+          "added": 1789810057000,
+          "file": {
+            "name": "/Sobre-v0.1.3.apk",
+            "sha256": "fb2cddfb6b09c9fec6c2b7a3a69f82a2385e2895bba967048a121c30f370d63b",
+            "size": 46993534
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "0.1.3",
+            "versionCode": 4,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "app.sobre.player.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.readersaudio": {
+      "metadata": {
+        "lastUpdated": 1789810056000,
+        "preferredSigner": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+      },
+      "versions": {
+        "4f2fe7e297263e061af661795e2f10ce15b24b45aaabaaff3a581d3d521212c4": null,
+        "b36a6f725f471c5fb11c2d36d07dba00c76a6078d5af6b1eff6e6be8b6f217dc": {
+          "added": 1789810056000,
+          "file": {
+            "name": "/ReadersAudio-v1.5.0.apk",
+            "sha256": "b36a6f725f471c5fb11c2d36d07dba00c76a6078d5af6b1eff6e6be8b6f217dc",
+            "size": 45677014
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.5.0",
+            "versionCode": 12,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.freedomfighter.readersaudio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.readerspodcasts": {
+      "metadata": {
+        "lastUpdated": 1789810056000
+      },
+      "versions": {
+        "0ce158fb2db8311e4b2fd744f90f3d91e5a019737d93e839d1fcb9e78630d10d": null,
+        "6e4c3b72cdf0cc16422791e55cbe3605f476dfe8ecacea5f29f35973f510b2c1": {
+          "added": 1789810056000,
+          "file": {
+            "name": "/ReadersPodcasts-v0.4.4.apk",
+            "sha256": "6e4c3b72cdf0cc16422791e55cbe3605f476dfe8ecacea5f29f35973f510b2c1",
+            "size": 31496606
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.4.4",
+            "versionCode": 12,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "com.freedomfighter.readerspodcasts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.readersrecorder": {
+      "metadata": {
+        "lastUpdated": 1789810056000,
+        "preferredSigner": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+      },
+      "versions": {
+        "c8fa7fccf9d5b9dc7ce332d0870169c49b14ad242d291bfdc1412de57281e182": null,
+        "2bb3c1787cc01883c29e0cd9181dacdb51fc39bf5b1785a29bf2a25f2eda4ce9": {
+          "added": 1789810056000,
+          "file": {
+            "name": "/ReadersRecorder-v1.10.0.apk",
+            "sha256": "2bb3c1787cc01883c29e0cd9181dacdb51fc39bf5b1785a29bf2a25f2eda4ce9",
+            "size": 30360829
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.10.0",
+            "versionCode": 20,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "com.freedomfighter.readersrecorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
