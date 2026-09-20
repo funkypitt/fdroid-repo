@@ -5,58 +5,10 @@ Categories:
 License: MIT
 Name: Retreat Timer
 SourceCode: https://github.com/funkypitt/retreat-timer
-Summary: Rings one or three meditation bells on schedule, even in deep sleep
+Summary: Rings meditation bells on schedule, even in deep sleep
 Description: |
-  Retreat Timer rings a recording of singing-bowl bells at the times of day you
-  choose — the signal to begin or end a sitting — so a meditation retreat keeps
-  running on schedule even when the teacher is not present. Each time can ring
-  three bells or a single bell, whichever that moment in the day calls for.
-
-  Built for one job: the bells ring no matter what.
-
-  * Exact alarms via the same mechanism the stock Clock app uses, so they fire on
-    time even when the device is locked, asleep, or in Doze for hours.
-  * A foreground service holds a wake lock and plays through the alarm stream, so
-    the system cannot mute or kill the bells mid-ring.
-  * Alarms are re-armed automatically after a reboot, time change, or app update.
-  * A readiness light turns green once battery optimisation and notifications are
-    set, so the teacher can leave knowing the schedule is safe.
-
-  Easy to set up:
-
-  * Tap Add bell and pick the time. The picker opens ready for typing, so any
-    minute is set directly — 06:47, not just 06:45 — with a dial one tap away.
-  * In that same picker, choose three bells or one for this time — three to open
-    and close a sitting, one for the smaller markers in a day. Preview either
-    before setting it. The schedule shows a small x3 or x1 badge beside every
-    bell, so which rings which is readable at a glance.
-  * Tap any time to edit it — and its number of bells; toggle bells on or off;
-    delete with one tap.
-  * Four bell sounds to choose from — singing bell, Tibetan E flat bowl, gong
-    bowl and Satipanya — all matched to the same loudness, so switching changes
-    the timbre and never the volume. One bell and three bells are matched too.
-  * Bell volume and talk volume are set separately, because a spoken recording
-    normally has to be much louder than a bowl strike to fill the same room.
-    Each has its own Test button that plays at the exact level the room will
-    hear. Test bell rings once, which is all it takes to judge the level, and
-    Test talk uses the talk that is actually coming up next.
-
-  Dharma talk library:
-
-  * Add talks from this phone, an Infomaniak kDrive public share link, or a
-    podcast RSS feed — every import is downloaded into the app so playback works
-    with no network at all.
-  * Play a talk instantly, or schedule one to play at a set time exactly like a
-    bell.
-  * A player bar with a draggable progress bar — talks often open with minutes
-    of silence, so drag straight to the speech instead of waiting it out.
-    Restart, 10 seconds back and forward, pause, and both elapsed and remaining
-    time, from the app or the notification.
-  * Optional "keep Bluetooth speaker awake": portable speakers disconnect after
-    a few minutes of silence, so the next bell would come faintly from the
-    tablet. Turn it on when using an external speaker and it plays a
-    barely-audible sound between bells to hold the link open. The bells are
-    untouched — still the exact-alarm system, this is only a separate faint
-    stream.
-
-  No ads, no tracking, no accounts. The schedule repeats every day.
+  Set the times of day; one bell or three ring at each, every day, so a retreat runs
+  with no one at the bell. Exact alarms and a foreground service: they ring through
+  lock, Doze and reboot, and a light says when the phone is ready. Four bowls at
+  matched loudness or your own sound, and talks scheduled like bells. No ads, no
+  account.

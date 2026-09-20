@@ -7,12 +7,10 @@ Name: Reader's Bookshop
 SourceCode: https://github.com/funkypitt/readers-bookshop
 IssueTracker: https://github.com/funkypitt/readers-bookshop/issues
 WebSite: https://github.com/funkypitt/readers-bookshop
-Summary: Search free ebook catalogues, files to the phone; reading left to the reader
+Summary: Finds free e-books across the public-domain libraries
 Description: |
-    A black-and-white search-and-download app for free ebooks: Project Gutenberg, Standard Ebooks,
-    Wikisource, the Bibliothèque numérique romande, Ebooks libres et gratuits, textos.info, the
-    Internet Archive's freely downloadable texts; Anna's Archive only once turned on after reading
-    what it is. The file goes to Download/Reader's Bookshop for Reader's Books or any reader. The
-    app hosts nothing: the user accepts once, and ticks before every search, that what is
-    downloaded is their responsibility; when a source tells the author's dates the app says whether
-    the seventy years have passed.
+  Searches Project Gutenberg, Standard Ebooks, Wikisource, Bibliothèque numérique
+  romande, Ebooks libres et gratuits, textos.info and the Internet Archive at once;
+  Anna's Archive only if you turn it on. Says whether the author has been dead seventy
+  years when the source gives the dates. Downloads the file and leaves the reading to
+  your reader. Hosts nothing, no account. Black and white, text only.

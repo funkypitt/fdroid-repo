@@ -9,14 +9,7 @@ IssueTracker: https://github.com/funkypitt/readers-foodlog/issues
 WebSite: https://github.com/funkypitt/readers-foodlog
 Summary: A food journal made of photos
 Description: |
-  Photograph what you are about to eat, as thoughtlessly as you would reach
-  into a bowl of peanuts. The widget, the quick-settings tile or the app's
-  big button open the viewfinder; a touch anywhere (or a volume key) takes
-  the photo and the screen closes by itself. Each photo is labelled
-  breakfast, lunch, dinner or snack from the time it was taken. The home
-  screen is one folder per day. Physical activity in one tap: strength
-  training, intense activity, endurance, or a line of your own. Your weight
-  once a day, with a curve of how it moves. Everything
-  stays on the phone: no network permission, no account. Export the journal
-  as one zip to carry it to a new phone; importing adds and replaces
-  nothing. Black and white, text only, six languages.
+  One touch photographs what you are about to eat; the app labels it breakfast, lunch,
+  dinner or snack and files it by day. No calories, no database, no typing. Activity
+  in one tap, weight once a day with its curve. No network permission; the journal
+  exports as a zip.

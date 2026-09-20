@@ -7,16 +7,10 @@ IssueTracker: https://github.com/funkypitt/littre-app/issues
 License: GPL-3.0-only
 Name: "Le dictionnaire Littr\xE9"
 SourceCode: https://github.com/funkypitt/littre-app
-Summary: "Dictionnaire Littr\xE9 complet, gratuit et hors-ligne"
+Summary: Le Littré complet, hors ligne, sans publicité
 Description: |
-  Le dictionnaire de la langue fran\xE7aise d'\xC9mile Littr\xE9,
-  complet et enti\xE8rement gratuit, consultable hors-ligne.
-
-  Widget d'\xE9cran d'accueil \xAB Mot du jour \xBB, et mot du jour expos\xE9 aux
-  autres applications (tuile de Reader's Launcher).
-  78 599 entr\xE9es avec d\xE9finitions, \xE9tymologies et citations.
-  Recherche instantan\xE9e, mot du jour, favoris, renvois crois\xE9s
-  cliquables, mode sombre. Aucune connexion internet requise.
-  Donn\xE9es lexicographiques sous licence CC BY-SA 3.0
-  (Fran\xE7ois Gannaz, littre.org).
+  Les 78 599 entrées du dictionnaire d'Émile Littré, avec étymologies et citations,
+  consultables sans connexion. Recherche instantanée, renvois cliquables, favoris, mot
+  du jour en widget. Ni publicité ni compte. Données littre.org (François Gannaz), CC
+  BY-SA 3.0.
 WebSite: https://github.com/funkypitt/littre-app
