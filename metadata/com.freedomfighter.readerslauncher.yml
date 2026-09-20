@@ -8,6 +8,6 @@ SourceCode: https://github.com/funkypitt/readers-launcher
 Summary: Black-and-white, text-only launcher in the spirit of the Light Phone
 Description: |
   The home screen is one fixed page of words: no icons, no colours, no wallpaper. Text
-  tiles for apps and categories; built-in clock, weather (Open-Meteo), agenda, tasks
-  and notes; two books a swipe away. Swipe up for all apps, down for notifications. No
-  ads, no tracking. Six languages.
+  tiles for apps and categories; built-in clock, weather (MeteoSwiss or Open-Meteo, no
+  key), agenda, tasks and notes; two books a swipe away. Swipe up for all apps, down
+  for notifications. No ads, no tracking. Six languages.

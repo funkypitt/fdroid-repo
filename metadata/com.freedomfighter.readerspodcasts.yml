@@ -9,7 +9,8 @@ IssueTracker: https://github.com/funkypitt/readers-podcasts/issues
 WebSite: https://github.com/funkypitt/readers-podcasts
 Summary: 'Text-only podcast player: subscribe, download, listen'
 Description: |
-  Feeds added by pasting or sharing a link; episodes in three plain lists — on the
-  phone, new, by channel. Resumes where you stopped; a finished episode frees its
-  file. No directory, no recommendations, no account: OPML and one settings file are
-  the whole sync with the desktop twin.
+  Channels, episodes, favourites, downloads: four plain lists, no artwork. Feeds are
+  added by pasting or sharing a link, and an episode resumes where you stopped. It can
+  be transcribed and translated on the phone, and read while it plays. No directory,
+  no recommendations, no account: OPML and one settings file are the whole sync with
+  the desktop twin.

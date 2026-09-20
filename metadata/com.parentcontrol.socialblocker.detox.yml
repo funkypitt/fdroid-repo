@@ -8,6 +8,8 @@ SourceCode: https://github.com/funkypitt/SocialBlocker-Detox
 IssueTracker: https://github.com/funkypitt/SocialBlocker-Detox/issues
 Summary: Blocks social networks on the phone with a local DNS VPN
 Description: |
-  The filtering happens on the device: no server sees your traffic, no account. The
-  hours you set stay locked while blocking is on. Works on IPv6-only carriers. Black
-  and white, text only, six languages.
+  Blocks YouTube, Instagram, TikTok, Reddit, X and Substack outside the hours you
+  allow. The filtering happens on the device: no proxy, no certificate, no account.
+  While it blocks, sites and hours are locked, and five maths problems can stand
+  between you and stopping it. Friction you choose, not parental control. Works on
+  IPv6-only carriers. Black and white, text only, six languages.
