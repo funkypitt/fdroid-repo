@@ -5,6 +5,7 @@ Categories:
 CurrentVersionCode: 2147483647
 License: MIT
 Name: Timer for 9Barista
+SourceCode: https://github.com/funkypitt/9barista-timer
 Summary: Espresso timer for the 9Barista, three taps per brew
 Description: |
   Tap when the machine goes on the stove, tap when coffee appears, tap when done:

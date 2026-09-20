@@ -5,6 +5,7 @@ Categories:
 CurrentVersionCode: 2147483647
 License: GPL-3.0-only
 Name: ePub Magazine reader
+SourceCode: https://github.com/funkypitt/epub-eink-newsreader
 Summary: EPUB reader for newspaper and magazine issues
 Description: |
   Opens an issue as a contents page — one card per article, by section — then each

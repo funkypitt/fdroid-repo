@@ -6,9 +6,9 @@ Name: Reader's Audio Player
 SourceCode: https://github.com/funkypitt/readers-audio
 IssueTracker: https://github.com/funkypitt/readers-audio/issues
 WebSite: https://github.com/funkypitt/readers-audio
-Summary: Plain audio player that transcribes on the phone
+Summary: Plain audio player that transcribes and translates on the phone
 Description: |
   Plays audio files and resumes each where it was left; speed 0.8–2×, lock-screen and
   Bluetooth controls, a resume widget. Transcribes on the phone with whisper.cpp into
-  .txt files any app opens — nothing is uploaded. Black and white, text only, six
-  languages.
+  .txt files any app opens, and can translate the transcript, on the phone too —
+  nothing is uploaded. Black and white, text only, six languages.
