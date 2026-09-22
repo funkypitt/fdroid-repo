@@ -2,15 +2,16 @@ AuthorName: Pierre Gallaz
 AuthorWebSite: https://gallaz.ch/eink
 Categories:
 - Sports & Health
-CurrentVersion: '1.1.2'
-CurrentVersionCode: 4
+CurrentVersion: '2.0.0'
+CurrentVersionCode: 5
 IssueTracker: https://github.com/funkypitt/box-breathing/issues
 License: GPL-3.0-only
-Name: Box Breathing 4min
+Name: 4 Minutes Breathing
 SourceCode: https://github.com/funkypitt/box-breathing
-Summary: Four minutes of box breathing, nothing to set
+Summary: Five breathing techniques, one shape each, four minutes
 Description: |
-  Follow the guide round a square: breathe in, hold, out, hold. Four minutes, from a
-  3-second rhythm to 4 seconds halfway. No settings, no streaks, no account, no
-  tracking. English and French.
-WebSite: https://github.com/funkypitt/box-breathing
+  Pick a shape and follow the dot round it for four minutes: square (box 4-4-4-4),
+  triangle (4-4-4), 4-7-8, petal (3-3-6), circle (coherent 5-5). Every edge is as long
+  as the breath it stands for. No settings, no streaks, no account, no tracking.
+  English and French.
+WebSite: https://gallaz.ch/eink
