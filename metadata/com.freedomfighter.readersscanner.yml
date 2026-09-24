@@ -1,0 +1,14 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Office
+License: MIT
+Name: Reader's Scanner
+WebSite: https://gallaz.ch/eink
+Summary: Scans to searchable PDFs, text read on the phone
+Description: |
+  Photographs documents, one page or many: the page is found, straightened and cleaned,
+  and its text is read on the phone (Tesseract, seven languages, nothing sent anywhere).
+  Each document becomes a searchable PDF named after its date and first words, filed in
+  plain folders, shareable as PDF, pictures or text, and copied to your own WebDAV folder
+  (kDrive, Nextcloud) if you like. Black and white, text only.
