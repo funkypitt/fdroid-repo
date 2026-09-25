@@ -1,14 +1,27 @@
+AntiFeatures:
+  NonFreeDep:
+    en-US: If chosen at first start, Google ML Kit's document scanner runs through Google Play services.
+  UpstreamNonFree:
+    en-US: The app includes Google ML Kit (closed code), next to the free engines (Tesseract and its own page finder).
+  Tracking:
+    en-US: Only with ML Kit chosen, Google's library sends usage statistics to Google (never the documents). The free engines send nothing.
 AuthorName: Pierre Gallaz
 AuthorWebSite: https://gallaz.ch/eink
 Categories:
 - Office
 License: MIT
 Name: Reader's Scanner
-WebSite: https://gallaz.ch/eink
+SourceCode: https://github.com/funkypitt/readers-scanner
+IssueTracker: https://github.com/funkypitt/readers-scanner/issues
+WebSite: https://github.com/funkypitt/readers-scanner
 Summary: Scans to searchable PDFs, text read on the phone
 Description: |
-  Photographs documents, one page or many: the page is found, straightened and cleaned,
-  and its text is read on the phone (Tesseract, seven languages, nothing sent anywhere).
+  Photographs documents, one page or many: the page is found, straightened and cleaned, a
+  blurred shot is flagged at once, and the text is read on the phone in seven languages.
   Each document becomes a searchable PDF named after its date and first words, filed in
   plain folders, shareable as PDF, pictures or text, and copied to your own WebDAV folder
-  (kDrive, Nextcloud) if you like. Black and white, text only.
+  (kDrive, Nextcloud) if you like.
+
+  At first start you choose the engine: Google ML Kit (most reliable; closed code, needs
+  Google Play services, sends usage statistics to Google, never your documents) or the free
+  ones (the app's own page finder and Tesseract). Black and white, text only.
