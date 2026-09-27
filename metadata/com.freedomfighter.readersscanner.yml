@@ -18,7 +18,7 @@ Summary: Scans to searchable PDFs, text read on the phone
 Description: |
   Photographs documents, one page or many: the page is found, straightened and cleaned, a
   blurred shot is flagged at once, and the text is read on the phone in seven languages.
-  Each document becomes a searchable PDF named after its date and first words, filed in
+  Each document becomes a searchable PDF, dated and named by you, filed in
   plain folders, shareable as PDF, pictures or text, and copied to your own WebDAV folder
   (kDrive, Nextcloud) if you like.
 
