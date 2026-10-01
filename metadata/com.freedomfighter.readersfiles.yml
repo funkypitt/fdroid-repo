@@ -1,0 +1,16 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- System
+License: GPL-3.0-only
+Name: Reader's Files
+SourceCode: https://github.com/funkypitt/readers-files
+IssueTracker: https://github.com/funkypitt/readers-files/issues
+WebSite: https://github.com/funkypitt/readers-files
+Summary: A file manager that opens on a page of plain words, black and white
+Description: |
+  It opens on a list, not a grid of cards: Downloads, Videos, Images, Audio, Documents,
+  Apps, Archives, then the phone's storage and its root with the space left. ZIP files
+  are browsed in place; 7z, rar, tar and their compressed forms are unpacked beside the
+  archive. Viewers for pictures, video, audio, PDF and text are built in. A modified
+  version of Prism File Explorer (GPL-3.0). No network permission, nothing collected.
