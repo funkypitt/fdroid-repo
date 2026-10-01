@@ -1,0 +1,15 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- System
+License: GPL-3.0-only
+Name: Reader's Installer and Updater
+SourceCode: https://github.com/funkypitt/readers-installer
+IssueTracker: https://github.com/funkypitt/readers-installer/issues
+WebSite: https://github.com/funkypitt/readers-installer
+Summary: Installs the Reader's apps and keeps them, and itself, up to date
+Description: |
+  Open it once: the whole Reader's family is in the list, each app one tap from being
+  installed; after that the updates come by themselves, the installer's own included.
+  It can follow any other app the same way. A modified version of Obtainium (GPL-3.0),
+  not affiliated with its authors. No account, no tracking.
