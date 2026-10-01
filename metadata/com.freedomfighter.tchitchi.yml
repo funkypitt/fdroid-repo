@@ -1,0 +1,14 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- System
+License: MIT
+Name: Tchitchi
+Summary: A large, calm home screen for older people, safe from accidental changes
+Description: |
+  A Windows Phone 7-style launcher: two columns of big square tiles that scroll, and a
+  tile showing new messages with who wrote. The home screen cannot be changed by mistake:
+  a long press counts only after eight seconds, then three questions must each be answered
+  yes; the list of all apps asks once before it opens. Twelve themes, among them Unity,
+  with each app's own icon on a tile of its colour. Messages are read from the
+  notifications, kept in memory only; no ads, no tracking.
