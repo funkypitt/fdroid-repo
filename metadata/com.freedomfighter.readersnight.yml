@@ -1,0 +1,17 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- System
+License: MIT
+Name: Reader's Night Filter
+SourceCode: https://github.com/funkypitt/readers-night
+IssueTracker: https://github.com/funkypitt/readers-night/issues
+WebSite: https://github.com/funkypitt/readers-night
+Summary: Grayscale, warm and dim screen in one tap, from the quick settings
+Description: |
+  One switch turns the screen gray, as warm as the phone allows, and dim: Android's own
+  colour correction, Night Light and extra dim driven together, and put back as they were
+  when you switch off. The switch lives in the quick settings, in a home-screen widget and
+  in the app. It needs a permission given once from a computer (one adb command, shown in
+  the app); no root. Android does not let an app remove blue entirely, so the tint stops
+  at the phone's warmest setting. No network permission, no account, nothing collected.
