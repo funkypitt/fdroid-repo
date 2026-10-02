@@ -1,0 +1,15 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Multimedia
+IssueTracker: https://github.com/funkypitt/mp4-remixer/issues
+License: GPL-3.0-only
+Name: MP4 Remixer
+SourceCode: https://github.com/funkypitt/mp4-remixer
+Summary: Makes videos square (1:1) or brings them down to 1080p or 720p
+Description: |
+  Pick videos from the gallery, or share them to the app, then make them square, bring
+  them down to 1080p or 720p, or both. For the square you drag a frame over each video
+  to choose the part it keeps. The new videos go to Movies/MP4 Remixer and the originals
+  are left alone. No network permission, no ads, no account.
+WebSite: https://github.com/funkypitt/mp4-remixer
