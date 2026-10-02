@@ -13,3 +13,8 @@ Description: |
   While it blocks, sites and hours are locked, and five maths problems can stand
   between you and stopping it. Friction you choose, not parental control. Works on
   IPv6-only carriers. Black and white, text only, six languages.
+
+  Only the names of the sites you look up pass through the app, never the traffic
+  itself. They go to your network's own name servers as usual; if those do not
+  answer, the app asks Quad9, a Swiss non-profit name service, so that the phone
+  keeps working.
