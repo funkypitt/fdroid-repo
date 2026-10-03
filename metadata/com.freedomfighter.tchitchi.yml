@@ -8,7 +8,9 @@ Summary: A large, calm home screen for older people, safe from accidental change
 Description: |
   A Windows Phone 7-style launcher: two columns of big square tiles that scroll. Tiles
   show each app's last three calls or messages, kept after they are read, and a person's
-  photo calls them at a touch. The home screen cannot be changed by mistake: a long press
+  photo calls them at a touch. It can also be the phone app: calls ring on the whole
+  screen with the caller's photo and name in large type and two big buttons, and missed
+  calls stay at the top of the home screen until answered with "call back" or "OK". The home screen cannot be changed by mistake: a long press
   counts only after eight seconds, then three questions must each be answered yes.
   Twelve themes. Messages are read from the notifications and kept on the phone only;
   no ads, no tracking.
