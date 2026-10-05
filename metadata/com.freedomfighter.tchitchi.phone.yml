@@ -10,5 +10,7 @@ Description: |
   launcher. A call rings on the whole screen with the caller's photo and name in large type
   and two big buttons; missed calls stay at the top until answered with "call back" or "OK".
   Contacts read favourites, then the people called lately, then everyone, with a search
-  field; a keypad with large keys; the list of calls. Twelve themes. No account, no network,
+  field; a keypad with large keys; the list of calls. When another app is opened during a
+  call, a wide green band stays at the top of the screen with the name and the time on the
+  line, and a touch brings the call back. Twelve themes. No account, no network,
   nothing leaves the phone.
