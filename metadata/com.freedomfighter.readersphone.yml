@@ -1,0 +1,20 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Phone & SMS
+License: MIT
+Name: Reader's Phone
+Summary: A phone in large type, two colours, that can record a call and write it out
+Description: |
+  A call rings on the whole screen with the person's photo and name and two big buttons;
+  missed calls stay at the top until answered with "call back" or "OK". Contacts read
+  favourites, then the people called lately, then everyone; a keypad with large keys; the
+  list of calls. Leave the call for another app and it stays in view: Android's own call
+  notification with one big "hang up", and a wide green band that brings the call back.
+
+  Recording (off by default): a call is recorded and written out on the phone by
+  whisper.cpp, the model fetched once and shared with the other Reader's apps. Android only
+  gives the sound of a call to an accessibility service, so one has to be switched on; the
+  settings say so. Tell the other person — in many countries the law requires it.
+
+  Six languages. No account; the network is used only to fetch the model.
