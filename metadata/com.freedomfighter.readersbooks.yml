@@ -11,5 +11,6 @@ Summary: 'Black-and-white e-book reader: pages, not scrolling'
 Description: |
   A shelf as a plain list; books as pages of text cut at whole lines, turned by a tap
   — made for e-ink. EPUB, MOBI, FB2, TXT; the place in each book is kept. No store, no
-  account; the network is used only for the optional library on your own drive (kDrive
-  share link or WebDAV), listed by folder, a book downloaded when tapped.
+  account; the network is used only for the optional library on your own drive (WebDAV),
+  listed by folder, a book downloaded when tapped. Highlights, comments and the page you
+  are at are kept next to each book of the library and follow it to your other devices.
