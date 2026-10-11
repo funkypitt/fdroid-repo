@@ -1,0 +1,20 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/apps
+Categories:
+- System
+License: MIT
+Name: Reader's Attention
+SourceCode: https://github.com/funkypitt/readers-attention
+IssueTracker: https://github.com/funkypitt/readers-attention/issues
+WebSite: https://github.com/funkypitt/readers-attention
+Summary: The apps opened by reflex, counted in words, with a pause before them
+Description: |
+  Not the screen time but the use to no purpose: the apps opened by reflex (social
+  networks, games, short video). Each day, in words: how many times they were opened and
+  for how long, what came first after unlocking, the longest stretch, the evening, the
+  quick checks under a minute. A tap moves any app between "reflex" and "tools". Off by
+  default and never blocking: a pause before a reflex app asks "what for?" and waits a few
+  seconds (longer in the evening, or with the reason typed), then leaves the app alone for
+  ten minutes; a one-line word after fifteen minutes. The data is Android's own usage
+  record, read with the "usage access" permission; nothing leaves the phone, no network
+  permission. Text only, white on black.
