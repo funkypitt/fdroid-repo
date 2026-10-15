@@ -15,6 +15,9 @@ Description: |
   quick checks under a minute. A tap moves any app between "reflex" and "tools". Off by
   default and never blocking: a pause before a reflex app asks "what for?" and waits a few
   seconds (longer in the evening, or with the reason typed), then leaves the app alone for
-  ten minutes; a one-line word after fifteen minutes. The data is Android's own usage
+  ten minutes, or five breaths guided by a ring; the level can be set for one app alone;
+  a one-line word after fifteen minutes. Notifications can be delivered together at a few
+  times of the day (calls, alarms and the apps you mark always come at once), with a
+  quick-settings tile. The data is Android's own usage
   record, read with the "usage access" permission; nothing leaves the phone, no network
   permission. Text only, white on black.
