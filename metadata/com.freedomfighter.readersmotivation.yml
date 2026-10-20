@@ -1,0 +1,21 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/apps
+Categories:
+- Sports & Health
+License: MIT
+Name: Reader's Motivation
+SourceCode: https://github.com/funkypitt/readers-motivation
+IssueTracker: https://github.com/funkypitt/readers-motivation/issues
+WebSite: https://github.com/funkypitt/readers-motivation
+Summary: Count the days, and the urges you beat; a slip never wipes what you earned
+Description: |
+  For something to stop (sugar, cigarettes, alcohol, screens in the evening) or something
+  to do every day. One page per habit: the day in big letters, the urges beaten, what you
+  avoided in units and money, the next step, your own reason, the last weeks as squares.
+  A slip costs one day and nothing else: the totals never go down, the headline that day is
+  what stays earned, and the app gives your plan back. "An urge, right now": three minutes
+  with a breathing ring, your reason and your plan, then "it passed" or "I slipped". A plan
+  decided in advance, a start date that marks a fresh start, one line to tell someone where
+  you are. Widget with a ✓ that counts an urge beaten, optional daily reminder, backup.
+  Each choice comes from the published research on habits and lapses. Text only, white on
+  black, six languages, no network permission.
