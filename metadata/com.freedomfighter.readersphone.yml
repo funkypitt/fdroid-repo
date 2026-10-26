@@ -17,4 +17,9 @@ Description: |
   gives the sound of a call to an accessibility service, so one has to be switched on; the
   settings say so. Tell the other person — in many countries the law requires it.
 
-  Six languages. No account; the network is used only to fetch the model.
+  Unknown callers (off by default): a number nobody in the contacts has is looked up in
+  the Swiss directory of search.ch, with your own free key for private use pasted in the
+  settings; only that number leaves the phone. Data: Swisscom Directories AG.
+
+  Six languages. No account; the network is used only to fetch the model and, when you ask
+  for it, the directory.
