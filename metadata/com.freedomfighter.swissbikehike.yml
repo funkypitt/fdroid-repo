@@ -4,16 +4,18 @@ Categories:
 - Navigation
 - Sports & Health
 License: MIT
-Name: Swiss Bike-Hike Map
+Name: Swiss Bikers and Pedestrians Map
 SourceCode: https://github.com/funkypitt/swiss-bike-hike-map
-Summary: Bike and hike map of Switzerland, official trails, routing and guidance on the phone
+Summary: Bike, hike and public-transport map of Switzerland, routing and guidance on the phone
 Description: |
-  A map for cycling and hiking in Switzerland, in the spirit of the old GPS boxes: one
-  screen, big buttons, the official hiking trails and cycling routes in their signpost
-  colours on the swisstopo map. Routing runs on the phone (BRouter, OpenStreetMap data),
-  through as many stops as you like, with turn-by-turn guidance that goes on with the
-  screen off, an elevation profile and the time of arrival; a GPX track can be followed as
-  it is. Favourites, people and firms from the search.ch directory with your own key, a
-  night map, and the whole country saved offline in one button. Six languages. No account,
-  no tracking; the network serves only the map tiles, the routing data and the searches you
-  ask for.
+  A map for cycling, hiking and public transport in Switzerland, in the spirit of the old
+  GPS boxes: one screen, big buttons, the official hiking trails, cycling routes and
+  public-transport lines in their signpost colours on the swisstopo map. Routing runs on
+  the phone (BRouter, OpenStreetMap data), through as many stops as you like, with
+  turn-by-turn guidance that goes on with the screen off, an elevation profile and the
+  time of arrival; a GPX track can be followed as it is. Public transport: the next
+  journeys to your stop, drawn leg by leg, then guidance in big letters (walk, board, get
+  off, change) with real-time timetables online and an optional offline timetable of all
+  Switzerland. Favourites, people and firms from the search.ch directory with your own
+  key, a night map, and the whole country saved offline in one button. Six languages. No
+  account, no tracking.
