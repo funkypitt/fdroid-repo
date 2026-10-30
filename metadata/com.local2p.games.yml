@@ -2,12 +2,10 @@ AuthorName: Pierre Gallaz
 AuthorWebSite: https://gallaz.ch/eink
 Categories:
 - Games
-CurrentVersionCode: 44
+CurrentVersionCode: 45
 IssueTracker: https://github.com/funkypitt/local-2p-games/issues
 License: MIT
-Name: Funky's 2P Games
 SourceCode: https://github.com/funkypitt/local-2p-games
-Summary: 16 games for two on one phone, no connection needed
 Description: |
   4 in a Row, Caro, Awalé, Memory, Duck Chess, Tank Wars, Word Clash, Reversi, Tennis,
   Pool, Carrom, Air Hockey, Mini Golf, Star Clash, Hangman and Horse Jump, for two
