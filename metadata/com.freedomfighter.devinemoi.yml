@@ -1,0 +1,34 @@
+AuthorName: funkypitt
+Categories:
+- Games
+CurrentVersionCode: 2147483647
+IssueTracker: https://github.com/funkypitt/devine-moi/issues
+License: MIT
+Name: Devine-moi
+SourceCode: https://github.com/funkypitt/devine-moi
+Summary: Le mot français du jour en six essais. Sans pub, hors ligne.
+Description: |
+  Chaque jour, un mot français de cinq lettres à trouver en six essais.
+  Vert : bonne lettre, bonne place. Ambre : la lettre est ailleurs dans
+  le mot. Gris : elle n'y est pas. Le mot est le même pour tout le monde
+  et change à minuit.
+
+  Les réponses sont des mots courants, choisis avec soin : au singulier,
+  sans conjugaisons ni pluriels faciles, sans noms propres ni grossièretés.
+  Tous les mots du dictionnaire sont acceptés comme essais. Les accents
+  ne comptent pas.
+
+  * Mot du jour, série, record et statistiques
+  * Entraînement illimité en 5, 6 ou 7 lettres
+  * Mode difficile, mode contraste élevé
+  * Clavier AZERTY, QWERTZ ou QWERTY, automatique selon la langue du téléphone
+  * Partage du résultat sans dévoiler le mot
+  * Définition du mot sur le Wiktionnaire
+  * Sons soignés et musique calme, que l'on peut couper
+
+  Fonctionne sans connexion, ne demande aucune autorisation. Sans
+  publicité, sans compte, sans pistage.
+
+  Dictionnaire : Lexique 3 (CC BY-SA 4.0) et Dicollecte (MPL 2.0).
+  Sons : Kenney (CC0). Musique : omfgdude (CC0). Police : Fraunces (OFL).
+WebSite: https://github.com/funkypitt/devine-moi
