@@ -16,9 +16,12 @@ Description: |
   time of arrival; a GPX track can be followed as it is. Public transport: the next
   journeys to your stop, drawn leg by leg, then guidance in big letters (walk, board, get
   off, change) with real-time timetables online and an optional offline timetable of all
-  Switzerland. Favourites, people and firms from the search.ch directory with your own
-  key, a night map, and the whole country saved offline in one button. A route planner on
-  every map (start, destination, date and time, share, keep, GO). Six languages. No
+  Switzerland. What is around you, offline: drinking water, shelters, huts, fire places,
+  bike shops, bakeries, farm shops, restaurants, campsites… from OpenStreetMap, searched by
+  category or name, drawn on the map on request. Favourites, people and firms from the
+  search.ch directory with your own key, which also completes a place with its phone and
+  address; a night map, and the whole country saved offline in one button. A route planner
+  on every map (start, destination, date and time, share, keep, GO). Six languages. No
   account, no tracking: the network serves the map tiles, the downloads and searches you
   ask for, and the transit map sends your position to transport.opendata.ch to find the
   stops around you.
