@@ -1,0 +1,24 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Time
+License: MIT
+Name: Rappels géants
+Summary: Des rappels en plein écran, impossibles à rater, seul ou en famille
+Description: |
+  À l'heure dite, le rappel couvre tout l'écran, en très gros et en couleur, et sonne
+  comme un réveil : téléphone verrouillé ou par-dessus l'app en cours. Il revient toutes
+  les 5 minutes tant qu'on n'a pas touché « C'est fait » ou choisi « dans 5 min / 15 min /
+  1 h ». Pensé pour les personnes qui ont un TDAH.
+
+  * « Nouveau rappel » : quoi, quand, pour qui, répétition simple.
+  * « Toute la famille » : le rappel va dans un agenda Google partagé par la famille
+    (par exemple « Famille important ») et sonne sur chaque téléphone où l'app est
+    installée ; tout ce que contient cet agenda sonne aussi.
+  * « Depuis mon agenda » : un événement de n'importe quel agenda du téléphone (Google,
+    CalDAV par DAVx5…) devient un rappel géant, au début ou un peu avant.
+  * Configuration guidée, une chose par page, avec un essai à la fin.
+
+  Sans compte, sans serveur, sans publicité. Français et anglais.
+SourceCode: https://github.com/funkypitt/rappels-geants
+WebSite: https://github.com/funkypitt/rappels-geants
