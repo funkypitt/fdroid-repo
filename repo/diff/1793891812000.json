@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1793977507000
+    "timestamp": 1793987391000
   },
   "packages": {
     "com.freedomfighter.retreatplayer": {
@@ -220,6 +220,40 @@
               },
               {
                 "name": "com.freedomfighter.swissbikehike.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.local2p.games": {
+      "metadata": {
+        "lastUpdated": 1793987389000
+      },
+      "versions": {
+        "e6218b84cbf1f5fd3ce14113972ea8d724f7b3c3f125cb4d2b7124807fc43219": null,
+        "24a2419d2e7dc0d7cc78b9cca2c222cc61fc2a429b4acb1ed1948fae299987f8": {
+          "added": 1793987389000,
+          "file": {
+            "name": "/2P-Games-v1.46.apk",
+            "sha256": "24a2419d2e7dc0d7cc78b9cca2c222cc61fc2a429b4acb1ed1948fae299987f8",
+            "size": 5493583
+          },
+          "manifest": {
+            "versionName": "1.46",
+            "versionCode": 49,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "31aa0828a61c83d171833002cf5caacdf29863639876ed7d0e95c3bb73730592"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.local2p.games.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }

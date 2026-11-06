@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1793977507000,
+    "timestamp": 1793987391000,
     "version": 20002,
     "name": "funkypitt's F-Droid Repo",
     "icon": "icon.png",
@@ -95,7 +95,7 @@
       "categories": [
         "Games"
       ],
-      "suggestedVersionCode": "48",
+      "suggestedVersionCode": "49",
       "description": "4 in a Row, Caro, Awal\u00e9, Memory, Duck Chess, Tank Wars, Word Clash, Reversi, Tennis,\nPool, Carrom, Air Hockey, Mini Golf, Star Clash, Hangman and Horse Jump, for two\nplayers on one phone. Rules behind a ? in each game. Works without any connection and\nasks for no permission. No ads, no accounts, no purchases.\n",
       "issueTracker": "https://github.com/funkypitt/local-2p-games/issues",
       "license": "MIT",
@@ -103,7 +103,7 @@
       "webSite": "https://github.com/funkypitt/local-2p-games",
       "added": 1775056773000,
       "packageName": "com.local2p.games",
-      "lastUpdated": 1793712046000,
+      "lastUpdated": 1793987389000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_ulYoDs0U9zqdJXP6vxkaeMKvBO6ShzfxT414DUr93vY=.png",
@@ -2827,15 +2827,15 @@
     ],
     "com.local2p.games": [
       {
-        "added": 1793712046000,
-        "apkName": "2P-Games-v1.45.apk",
-        "hash": "e6218b84cbf1f5fd3ce14113972ea8d724f7b3c3f125cb4d2b7124807fc43219",
+        "added": 1793987389000,
+        "apkName": "2P-Games-v1.46.apk",
+        "hash": "24a2419d2e7dc0d7cc78b9cca2c222cc61fc2a429b4acb1ed1948fae299987f8",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "packageName": "com.local2p.games",
         "sig": "71b152c9d6bc8cc8eaf184d073a0edd4",
         "signer": "31aa0828a61c83d171833002cf5caacdf29863639876ed7d0e95c3bb73730592",
-        "size": 6193987,
+        "size": 5493583,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -2843,8 +2843,8 @@
             null
           ]
         ],
-        "versionCode": 48,
-        "versionName": "1.45"
+        "versionCode": 49,
+        "versionName": "1.46"
       }
     ],
     "com.parentcontrol.socialblocker.detox": [

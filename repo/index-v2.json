@@ -14,7 +14,7 @@
       }
     },
     "address": "https://funkypitt.github.io/fdroid-repo/repo",
-    "timestamp": 1793977507000,
+    "timestamp": 1793987391000,
     "categories": {
       "Games": {
         "name": {
@@ -3553,7 +3553,7 @@
           "Games"
         ],
         "issueTracker": "https://github.com/funkypitt/local-2p-games/issues",
-        "lastUpdated": 1793712046000,
+        "lastUpdated": 1793987389000,
         "license": "MIT",
         "sourceCode": "https://github.com/funkypitt/local-2p-games",
         "webSite": "https://github.com/funkypitt/local-2p-games",
@@ -3603,16 +3603,16 @@
         "preferredSigner": "31aa0828a61c83d171833002cf5caacdf29863639876ed7d0e95c3bb73730592"
       },
       "versions": {
-        "e6218b84cbf1f5fd3ce14113972ea8d724f7b3c3f125cb4d2b7124807fc43219": {
-          "added": 1793712046000,
+        "24a2419d2e7dc0d7cc78b9cca2c222cc61fc2a429b4acb1ed1948fae299987f8": {
+          "added": 1793987389000,
           "file": {
-            "name": "/2P-Games-v1.45.apk",
-            "sha256": "e6218b84cbf1f5fd3ce14113972ea8d724f7b3c3f125cb4d2b7124807fc43219",
-            "size": 6193987
+            "name": "/2P-Games-v1.46.apk",
+            "sha256": "24a2419d2e7dc0d7cc78b9cca2c222cc61fc2a429b4acb1ed1948fae299987f8",
+            "size": 5493583
           },
           "manifest": {
-            "versionName": "1.45",
-            "versionCode": 48,
+            "versionName": "1.46",
+            "versionCode": 49,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
