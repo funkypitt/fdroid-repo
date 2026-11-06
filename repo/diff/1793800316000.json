@@ -1,1 +1,415 @@
-{"repo": {"timestamp": 1793910582000}, "packages": {"com.freedomfighter.rappelsgeants": {"metadata": {"added": 1793891809000, "categories": ["Time"], "lastUpdated": 1793891809000, "license": "MIT", "sourceCode": "https://github.com/funkypitt/rappels-geants", "webSite": "https://github.com/funkypitt/rappels-geants", "screenshots": {"phone": {"fr-FR": [{"name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/1.png", "sha256": "175a9eaf4370a15c3d974c79060403bfd3102be5fd77db75d13d3d92e478d30e", "size": 135365}, {"name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/2.png", "sha256": "cc419926d5d19072c2ee99984b6a73e63697d96216f3df10feaff8ce1d1bfca3", "size": 139172}, {"name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/3.png", "sha256": "e3a2f0327e834e8e0b4c97cdbf0f4c00380d3381161a3c086cb71770184ff09d", "size": 94226}, {"name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/4.png", "sha256": "7f5ab73f8067dc31b6828e411c17a563e4c851c00a810326b1d89790917c2375", "size": 136395}]}}, "authorName": "Pierre Gallaz", "authorWebSite": "https://gallaz.ch/eink", "name": {"en-US": "Rappels géants"}, "summary": {"en-US": "Des rappels en plein écran, impossibles à rater, seul ou en famille"}, "description": {"en-US": "À l'heure dite, le rappel couvre tout l'écran, en très gros et en couleur, et sonne\ncomme un réveil : téléphone verrouillé ou par-dessus l'app en cours. Il revient toutes\nles 5 minutes tant qu'on n'a pas touché « C'est fait » ou choisi « dans 5 min / 15 min /\n1 h ». Pensé pour les personnes qui ont un TDAH.\n\n* « Nouveau rappel » : quoi, quand, pour qui, répétition simple.\n* « Toute la famille » : le rappel va dans un agenda Google partagé par la famille\n  (par exemple « Famille important ») et sonne sur chaque téléphone où l'app est\n  installée ; tout ce que contient cet agenda sonne aussi.\n* « Depuis mon agenda » : un événement de n'importe quel agenda du téléphone (Google,\n  CalDAV par DAVx5…) devient un rappel géant, au début ou un peu avant.\n* Configuration guidée, une chose par page, avec un essai à la fin.\n\nSans compte, sans serveur, sans publicité. Français et anglais.\n"}, "icon": {"en-US": {"name": "/com.freedomfighter.rappelsgeants/en-US/icon_v0QsLrTjzimcKCj-xf48QTewHWZRnklMmcUYbuRjPl0=.png", "sha256": "bf442c2eb4e3ce299c2828fec5fe3c4137b01d66519e494c99c5186ee4633e5d", "size": 10547}, "fr-FR": {"name": "/com.freedomfighter.rappelsgeants/fr-FR/icon_v0QsLrTjzimcKCj-xf48QTewHWZRnklMmcUYbuRjPl0=.png", "sha256": "bf442c2eb4e3ce299c2828fec5fe3c4137b01d66519e494c99c5186ee4633e5d", "size": 10547}}, "preferredSigner": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"}, "versions": {"b012182f2473be706aed4a7c3fd56633d2ffd2bba5b146d021d05a13fb4c1eea": {"added": 1793891809000, "file": {"name": "/RappelsGeants-v0.1.0.apk", "sha256": "b012182f2473be706aed4a7c3fd56633d2ffd2bba5b146d021d05a13fb4c1eea", "size": 2562258}, "manifest": {"nativecode": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"], "versionName": "0.1.0", "versionCode": 1, "usesSdk": {"minSdkVersion": 29, "targetSdkVersion": 35}, "signer": {"sha256": ["b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"]}, "usesPermission": [{"name": "android.permission.READ_CALENDAR"}, {"name": "android.permission.WRITE_CALENDAR"}, {"name": "android.permission.POST_NOTIFICATIONS"}, {"name": "android.permission.USE_FULL_SCREEN_INTENT"}, {"name": "android.permission.SYSTEM_ALERT_WINDOW"}, {"name": "android.permission.USE_EXACT_ALARM"}, {"name": "android.permission.SCHEDULE_EXACT_ALARM", "maxSdkVersion": 32}, {"name": "android.permission.RECEIVE_BOOT_COMPLETED"}, {"name": "android.permission.VIBRATE"}, {"name": "android.permission.WAKE_LOCK"}, {"name": "com.freedomfighter.rappelsgeants.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"}]}}}}, "com.freedomfighter.readersbooks": {"metadata": {"lastUpdated": 1793808021000}, "versions": {"eabc94c969b936e99488af4a0cdbc6187726838f691a1207eeb9daa65eb21ce0": null, "ecba001069317725eb33089812f1de071bceb45c5781c3469bcc3556691108d9": {"added": 1793808021000, "file": {"name": "/ReadersBooks-v1.22.2.apk", "sha256": "ecba001069317725eb33089812f1de071bceb45c5781c3469bcc3556691108d9", "size": 6898765}, "manifest": {"nativecode": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"], "versionName": "1.22.2", "versionCode": 34, "usesSdk": {"minSdkVersion": 26, "targetSdkVersion": 34}, "signer": {"sha256": ["9b6ae69650b1ccf5bfa08ad15dc8b412622b8e5a3202ea066215067897a2be28"]}, "usesPermission": [{"name": "android.permission.VIBRATE"}, {"name": "android.permission.INTERNET"}, {"name": "android.permission.FOREGROUND_SERVICE"}, {"name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"}, {"name": "android.permission.POST_NOTIFICATIONS"}, {"name": "android.permission.WAKE_LOCK"}, {"name": "com.freedomfighter.readersbooks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"}]}}}}, "com.freedomfighter.swissbikehike": {"metadata": {"lastUpdated": 1793910580000}, "versions": {"8d0000039b59ad30e5ca7b49b862b4b601525cc6ac8d3eaf4be7bfbc612c43f2": null, "9f9990ec5b00268cc6d2b3430fc369db6b0171d3a0e03c543223c65c7ccc09f9": {"added": 1793910580000, "file": {"name": "/SwissBikersPedestriansMap-v0.11.2.apk", "sha256": "9f9990ec5b00268cc6d2b3430fc369db6b0171d3a0e03c543223c65c7ccc09f9", "size": 25381301}, "manifest": {"nativecode": ["arm64-v8a"], "versionName": "0.11.2", "versionCode": 23, "features": [{"name": "android.hardware.vulkan.version"}], "usesSdk": {"minSdkVersion": 28, "targetSdkVersion": 35}, "signer": {"sha256": ["b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"]}, "usesPermission": [{"name": "android.permission.INTERNET"}, {"name": "android.permission.ACCESS_NETWORK_STATE"}, {"name": "android.permission.ACCESS_FINE_LOCATION"}, {"name": "android.permission.ACCESS_COARSE_LOCATION"}, {"name": "android.permission.FOREGROUND_SERVICE"}, {"name": "android.permission.FOREGROUND_SERVICE_LOCATION"}, {"name": "android.permission.POST_NOTIFICATIONS"}, {"name": "android.permission.WAKE_LOCK"}, {"name": "android.permission.VIBRATE"}, {"name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"}, {"name": "android.permission.ACCESS_WIFI_STATE"}, {"name": "android.permission.RECEIVE_BOOT_COMPLETED"}, {"name": "com.freedomfighter.swissbikehike.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"}]}}}}}}
+{
+  "repo": {
+    "timestamp": 1793977507000
+  },
+  "packages": {
+    "com.freedomfighter.rappelsgeants": {
+      "metadata": {
+        "added": 1793891809000,
+        "categories": [
+          "Time"
+        ],
+        "lastUpdated": 1793891809000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/funkypitt/rappels-geants",
+        "webSite": "https://github.com/funkypitt/rappels-geants",
+        "screenshots": {
+          "phone": {
+            "fr-FR": [
+              {
+                "name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/1.png",
+                "sha256": "175a9eaf4370a15c3d974c79060403bfd3102be5fd77db75d13d3d92e478d30e",
+                "size": 135365
+              },
+              {
+                "name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/2.png",
+                "sha256": "cc419926d5d19072c2ee99984b6a73e63697d96216f3df10feaff8ce1d1bfca3",
+                "size": 139172
+              },
+              {
+                "name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/3.png",
+                "sha256": "e3a2f0327e834e8e0b4c97cdbf0f4c00380d3381161a3c086cb71770184ff09d",
+                "size": 94226
+              },
+              {
+                "name": "/com.freedomfighter.rappelsgeants/fr-FR/phoneScreenshots/4.png",
+                "sha256": "7f5ab73f8067dc31b6828e411c17a563e4c851c00a810326b1d89790917c2375",
+                "size": 136395
+              }
+            ]
+          }
+        },
+        "authorName": "Pierre Gallaz",
+        "authorWebSite": "https://gallaz.ch/eink",
+        "name": {
+          "en-US": "Rappels géants"
+        },
+        "summary": {
+          "en-US": "Des rappels en plein écran, impossibles à rater, seul ou en famille"
+        },
+        "description": {
+          "en-US": "À l'heure dite, le rappel couvre tout l'écran, en très gros et en couleur, et sonne\ncomme un réveil : téléphone verrouillé ou par-dessus l'app en cours. Il revient toutes\nles 5 minutes tant qu'on n'a pas touché « C'est fait » ou choisi « dans 5 min / 15 min /\n1 h ». Pensé pour les personnes qui ont un TDAH.\n\n* « Nouveau rappel » : quoi, quand, pour qui, répétition simple.\n* « Toute la famille » : le rappel va dans un agenda Google partagé par la famille\n  (par exemple « Famille important ») et sonne sur chaque téléphone où l'app est\n  installée ; tout ce que contient cet agenda sonne aussi.\n* « Depuis mon agenda » : un événement de n'importe quel agenda du téléphone (Google,\n  CalDAV par DAVx5…) devient un rappel géant, au début ou un peu avant.\n* Configuration guidée, une chose par page, avec un essai à la fin.\n\nSans compte, sans serveur, sans publicité. Français et anglais.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/com.freedomfighter.rappelsgeants/en-US/icon_v0QsLrTjzimcKCj-xf48QTewHWZRnklMmcUYbuRjPl0=.png",
+            "sha256": "bf442c2eb4e3ce299c2828fec5fe3c4137b01d66519e494c99c5186ee4633e5d",
+            "size": 10547
+          },
+          "fr-FR": {
+            "name": "/com.freedomfighter.rappelsgeants/fr-FR/icon_v0QsLrTjzimcKCj-xf48QTewHWZRnklMmcUYbuRjPl0=.png",
+            "sha256": "bf442c2eb4e3ce299c2828fec5fe3c4137b01d66519e494c99c5186ee4633e5d",
+            "size": 10547
+          }
+        },
+        "preferredSigner": "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+      },
+      "versions": {
+        "b012182f2473be706aed4a7c3fd56633d2ffd2bba5b146d021d05a13fb4c1eea": {
+          "added": 1793891809000,
+          "file": {
+            "name": "/RappelsGeants-v0.1.0.apk",
+            "sha256": "b012182f2473be706aed4a7c3fd56633d2ffd2bba5b146d021d05a13fb4c1eea",
+            "size": 2562258
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_CALENDAR"
+              },
+              {
+                "name": "android.permission.WRITE_CALENDAR"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.freedomfighter.rappelsgeants.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.readersbooks": {
+      "metadata": {
+        "lastUpdated": 1793808021000
+      },
+      "versions": {
+        "eabc94c969b936e99488af4a0cdbc6187726838f691a1207eeb9daa65eb21ce0": null,
+        "ecba001069317725eb33089812f1de071bceb45c5781c3469bcc3556691108d9": {
+          "added": 1793808021000,
+          "file": {
+            "name": "/ReadersBooks-v1.22.2.apk",
+            "sha256": "ecba001069317725eb33089812f1de071bceb45c5781c3469bcc3556691108d9",
+            "size": 6898765
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.22.2",
+            "versionCode": 34,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "9b6ae69650b1ccf5bfa08ad15dc8b412622b8e5a3202ea066215067897a2be28"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.freedomfighter.readersbooks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.retreatplayer": {
+      "metadata": {
+        "lastUpdated": 1793977504000,
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.freedomfighter.retreatplayer/en-US/phoneScreenshots/01-home.png",
+                "sha256": "05a39700497125a1a000e8ed80939f0cb50a7ee5790dfd2f77e089c612de0788",
+                "size": 123415
+              },
+              {
+                "name": "/com.freedomfighter.retreatplayer/en-US/phoneScreenshots/02-playing.png",
+                "sha256": "25bd69c46a54fe3c3ea60e97cf75c3c9f4e1fe384fbd65ea3ad98b14d98db889",
+                "size": 169613
+              }
+            ]
+          }
+        }
+      },
+      "versions": {
+        "9a4d7141a4f60ffa6d99aa05685d6f60120ebc3585c6d2fa444cc6338a500217": null,
+        "f4d7fb84a4e9c51e196a68b81568b42c0ae6c45ed433ec66c0a7d6f3cc5bd894": {
+          "added": 1793977504000,
+          "file": {
+            "name": "/RetreatPlayer-v1.6.0.apk",
+            "sha256": "f4d7fb84a4e9c51e196a68b81568b42c0ae6c45ed433ec66c0a7d6f3cc5bd894",
+            "size": 10732141
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.6.0",
+            "versionCode": 9,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "9b6ae69650b1ccf5bfa08ad15dc8b412622b8e5a3202ea066215067897a2be28"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.freedomfighter.retreatplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.retreattimer": {
+      "metadata": {
+        "lastUpdated": 1793977504000
+      },
+      "versions": {
+        "2e2618e2c64a680c3a58df12a590c73373b2d067b17612f14408d35fcf3c3762": null,
+        "09ba927a070f030acccd2ee7b2cb5ce8324999502b0e031f3354410a5dc67baf": {
+          "added": 1793977504000,
+          "file": {
+            "name": "/RetreatTimer-v1.14.0.apk",
+            "sha256": "09ba927a070f030acccd2ee7b2cb5ce8324999502b0e031f3354410a5dc67baf",
+            "size": 17536269
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.14.0",
+            "versionCode": 22,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "9b6ae69650b1ccf5bfa08ad15dc8b412622b8e5a3202ea066215067897a2be28"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.freedomfighter.retreattimer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.freedomfighter.swissbikehike": {
+      "metadata": {
+        "lastUpdated": 1793910580000
+      },
+      "versions": {
+        "8d0000039b59ad30e5ca7b49b862b4b601525cc6ac8d3eaf4be7bfbc612c43f2": null,
+        "9f9990ec5b00268cc6d2b3430fc369db6b0171d3a0e03c543223c65c7ccc09f9": {
+          "added": 1793910580000,
+          "file": {
+            "name": "/SwissBikersPedestriansMap-v0.11.2.apk",
+            "sha256": "9f9990ec5b00268cc6d2b3430fc369db6b0171d3a0e03c543223c65c7ccc09f9",
+            "size": 25381301
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.11.2",
+            "versionCode": 23,
+            "features": [
+              {
+                "name": "android.hardware.vulkan.version"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "b9c722e093f963ab7812922623e1c1a72fb9998537ad7d9aefa8b1a3f3a8120c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.freedomfighter.swissbikehike.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
