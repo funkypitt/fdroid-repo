@@ -1,0 +1,1 @@
+Ready for Android 16: the app no longer asks for permissions it never used (microphone, storage, overlay, vibration). Nothing changes in the exercise.

@@ -1,0 +1,1 @@
+Works with Android 16: the app now targets the latest Android, with transparent system bars throughout; the lists stay clear of the navigation bar. The phone's backup keeps the home screen and settings, not the book files.

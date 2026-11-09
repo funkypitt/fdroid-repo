@@ -1,0 +1,1 @@
+Prête pour Android 16 : l'appli ne demande plus les permissions qu'elle n'utilisait pas (micro, stockage, superposition, vibration). Rien ne change dans l'exercice.
