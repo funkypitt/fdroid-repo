@@ -1,0 +1,14 @@
+AuthorName: Pierre Gallaz
+AuthorWebSite: https://gallaz.ch/eink
+Categories:
+- Multimedia
+License: MIT
+Name: Reader's Video Editor
+Summary: Cut a video by marking its transcript, entirely on the phone
+Description: |
+  Open a video or a sound recording: the app writes down what is said, and you mark on
+  the text, as with a highlighter, the passages to keep or to cut. Listen to the edit,
+  then produce it as a video or a sound file, with soft joins and, if you like, a square
+  picture. Cutting by whole sentences is the most precise; within a sentence a cut can
+  fall a little off. The transcription runs on the phone, slowly but without an account
+  or a network: the only download is the transcription model, once, when you ask.
