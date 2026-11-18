@@ -13,8 +13,8 @@ Description: |
   public-transport lines in their signpost colours on the swisstopo map. Routing runs on
   the phone (BRouter, OpenStreetMap data), through as many stops as you like, previewed
   before you start (distance, time, climb, the streets taken, every turn with its street
-  name), then turn-by-turn guidance that goes on with the screen off; a GPX track can be
-  followed as it is. Public transport: the next
+  name), then turn-by-turn guidance that goes on with the screen off; your own tours (GPX,
+  KML, GeoJSON, TCX, FIT files, or recorded) are kept and followed as they are. Public transport: the next
   journeys to your stop, drawn leg by leg, then guidance in big letters (walk, board, get
   off, change) with real-time timetables online and an optional offline timetable of all
   Switzerland. What is around you, offline: drinking water, shelters, huts, fire places,
