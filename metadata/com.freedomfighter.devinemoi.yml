@@ -6,29 +6,36 @@ IssueTracker: https://github.com/funkypitt/devine-moi/issues
 License: MIT
 Name: Devine-moi
 SourceCode: https://github.com/funkypitt/devine-moi
-Summary: Le mot français du jour en six essais. Sans pub, hors ligne.
+Summary: Deux jeux de lettres par jour, en français. Sans pub, hors ligne.
 Description: |
-  Chaque jour, un mot français de cinq lettres à trouver en six essais.
-  Vert : bonne lettre, bonne place. Ambre : la lettre est ailleurs dans
-  le mot. Gris : elle n'y est pas. Le mot est le même pour tout le monde
-  et change à minuit.
+  Deux jeux de lettres en français, nouveaux chaque jour à minuit, les
+  mêmes pour tout le monde.
 
-  Les réponses sont des mots courants, choisis avec soin : au singulier,
-  sans conjugaisons ni pluriels faciles, sans noms propres ni grossièretés.
-  Tous les mots du dictionnaire sont acceptés comme essais. Les accents
-  ne comptent pas.
+  Le mot du jour : un mot de cinq lettres à trouver en six essais. Vert :
+  bonne lettre, bonne place. Ambre : la lettre est ailleurs dans le mot.
+  Gris : elle n'y est pas. Tous les mots du dictionnaire sont acceptés
+  comme essais.
 
-  * Mot du jour, série, record et statistiques
-  * Entraînement illimité en 5, 6 ou 7 lettres
+  Le mot brouillé : des lettres en désordre à remettre dans l'ordre. On
+  part de quatre lettres ; à chaque mot trouvé, une lettre de plus arrive,
+  jusqu'à huit lettres, puis un mot bonus de neuf lettres. On peut
+  mélanger les lettres ou demander un indice.
+
+  Les mots à trouver sont des mots courants, choisis avec soin, sans noms
+  propres ni grossièretés. Les accents ne comptent pas.
+
+  * Séries, records et statistiques pour chaque jeu
+  * Entraînement illimité au mot du jour, en 5, 6 ou 7 lettres
   * Mode difficile, mode contraste élevé
-  * Clavier AZERTY, QWERTZ ou QWERTY, automatique selon la langue du téléphone
-  * Partage du résultat sans dévoiler le mot
-  * Définition du mot sur le Wiktionnaire
+  * Clavier AZERTY, QWERTZ ou QWERTY, selon la langue du téléphone
+  * Partage du résultat sans dévoiler les mots
+  * Définition des mots sur le Wiktionnaire
   * Sons soignés et musique calme, que l'on peut couper
 
   Fonctionne sans connexion, ne demande aucune autorisation. Sans
   publicité, sans compte, sans pistage.
 
-  Dictionnaire : Lexique 3 (CC BY-SA 4.0) et Dicollecte (MPL 2.0).
-  Sons : Kenney (CC0). Musique : omfgdude (CC0). Police : Fraunces (OFL).
+  Mots et échelles de lettres : Lexique 3.83 (CC BY-SA 4.0) et Dicollecte
+  (MPL 2.0). Sons : Kenney (CC0). Musique : omfgdude (CC0). Police :
+  Fraunces (OFL).
 WebSite: https://github.com/funkypitt/devine-moi
