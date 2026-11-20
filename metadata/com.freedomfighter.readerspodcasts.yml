@@ -11,6 +11,7 @@ Summary: 'Text-only podcast player: subscribe, download, listen'
 Description: |
   Channels, episodes, favourites, downloads: four plain lists, no artwork. Feeds are
   added by pasting or sharing a link, and an episode resumes where you stopped. It can
-  be transcribed and translated on the phone, and read while it plays. No directory,
+  be transcribed and translated on the phone, and read while it plays; transcripts can
+  go to your Reader's Books library over WebDAV. No directory,
   no recommendations, no account: OPML and one settings file are the whole sync with
   the desktop twin.

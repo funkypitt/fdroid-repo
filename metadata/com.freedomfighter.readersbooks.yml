@@ -7,7 +7,7 @@ Name: Reader's Books
 SourceCode: https://github.com/funkypitt/readers-books
 IssueTracker: https://github.com/funkypitt/readers-books/issues
 WebSite: https://github.com/funkypitt/readers-books
-Summary: 'Black-and-white e-book reader: pages, not scrolling'
+Summary: 'Black-and-white e-book reader: pages, not scrolling; WebDAV library'
 Description: |
   A shelf as a plain list; books as pages of text cut at whole lines, turned by a tap
   — made for e-ink. EPUB, MOBI, FB2, TXT; the place in each book is kept. No store, no

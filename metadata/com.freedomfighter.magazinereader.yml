@@ -6,8 +6,10 @@ CurrentVersionCode: 2147483647
 License: GPL-3.0-only
 Name: ePub Magazine reader
 SourceCode: https://github.com/funkypitt/epub-eink-newsreader
-Summary: EPUB reader for newspaper and magazine issues
+Summary: EPUB reader for newspaper and magazine issues, fetched from your own drive
 Description: |
   Opens an issue as a contents page — one card per article, by section — then each
   article on its own page, with previous / contents / next always on top. Made for
-  daily EPUB issues on e-ink. Ordinary books open as in Book's Story, which it forks.
+  daily EPUB issues on e-ink: new issues are fetched from a folder on your own drive (a
+  kDrive share link or any WebDAV server), so a daily script can drop the papers there.
+  Ordinary books open as in Book's Story, which it forks.

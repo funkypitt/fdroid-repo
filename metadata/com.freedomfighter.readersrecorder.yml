@@ -7,9 +7,10 @@ Name: Reader's Recorder
 SourceCode: https://github.com/funkypitt/readers-recorder
 IssueTracker: https://github.com/funkypitt/readers-recorder/issues
 WebSite: https://github.com/funkypitt/readers-recorder
-Summary: Black-and-white voice recorder that transcribes on the phone
+Summary: Black-and-white voice recorder, transcribed on the phone, optional WebDAV sync
 Description: |
   One tap records a memo, a lecture or a conversation, screen off included. The phone
   itself writes the transcript (whisper.cpp), evens the loudness and can list the main
-  points (beta) — nothing leaves it. Optional export to your own WebDAV folder. Text
-  only, six languages.
+  points (beta) — by default nothing leaves it. Optionally, recordings and transcripts
+  are synced with your own WebDAV folder (kDrive, Nextcloud…), where your own computer
+  can transcribe in the phone's place. Text only, six languages.

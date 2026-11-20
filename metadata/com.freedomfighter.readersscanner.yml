@@ -14,7 +14,7 @@ Name: Reader's Scanner
 SourceCode: https://github.com/funkypitt/readers-scanner
 IssueTracker: https://github.com/funkypitt/readers-scanner/issues
 WebSite: https://github.com/funkypitt/readers-scanner
-Summary: Scans to searchable PDFs, text read on the phone
+Summary: Scans to searchable PDFs, text read on the phone, WebDAV copy
 Description: |
   Photographs documents, one page or many: the page is found, straightened and cleaned, a
   blurred shot is flagged at once, and the text is read on the phone in seven languages.
